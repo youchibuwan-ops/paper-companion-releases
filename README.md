@@ -4,13 +4,13 @@
 
 本软件免费，当前面向 Windows。测试版仍在完善，欢迎反馈安装、阅读和使用中的问题。
 
-**[下载 Windows 免费测试版](https://github.com/youchibuwan-ops/paper-companion-releases/releases/tag/v0.6.1-asar-beta.1)** · **[反馈问题](https://github.com/youchibuwan-ops/paper-companion-releases/issues/new/choose)**
+**[下载 Windows 免费测试版](https://github.com/youchibuwan-ops/paper-companion-releases/releases/tag/v0.6.2-beta.1)** · **[反馈问题](https://github.com/youchibuwan-ops/paper-companion-releases/issues/new/choose)**
 
 此仓库用于发布安装包、使用说明和收集反馈，目前不公开源码仓库。程序采用 ASAR 封装；ASAR 是归档格式，不是代码加密。
 
 ![软件实际界面](preview.png)
 
-当前版本：0.6.1 ASAR 免费测试版。程序内版本号为 0.6.1。
+当前版本：0.6.2 ASAR 免费测试版。程序内版本号为 0.6.2。本版改进了 PDF 文字拖选：鼠标停在阅读区边缘时可控地滚动，选择终点按鼠标位置精确更新。
 
 ## 下载与安装
 
