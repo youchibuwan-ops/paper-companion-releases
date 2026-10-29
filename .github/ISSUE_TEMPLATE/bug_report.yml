@@ -1,0 +1,20 @@
+name: 使用问题
+description: 报告免费测试版的问题
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 软件版本和 Windows 版本
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤、预期结果和实际结果
+      description: 请勿填写 API 密钥或上传私人论文。
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: 错误提示或截图
