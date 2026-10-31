@@ -325,6 +325,11 @@
     "license": "MIT"
   },
   {
+    "name": "mathlive",
+    "version": "0.111.1",
+    "license": "MIT"
+  },
+  {
     "name": "mdast-util-find-and-replace",
     "version": "3.0.4",
     "license": "MIT"
