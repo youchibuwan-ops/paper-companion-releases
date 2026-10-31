@@ -1,0 +1,4605 @@
+{
+  "schemaVersion": 1,
+  "application": {
+    "name": "paper-companion",
+    "version": "0.6.14"
+  },
+  "hashesCalculated": false,
+  "entries": [
+    {
+      "id": "npm-lingo-reader-mobi-parser-0.4.6-0",
+      "name": "@lingo-reader/mobi-parser",
+      "version": "0.4.6",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git@github.com:hhk-png/lingo-reader.git",
+      "installedPath": "node_modules/@lingo-reader/mobi-parser",
+      "files": [
+        {
+          "path": "raw/npm/npm-lingo-reader-mobi-parser-0.4.6-0/0-LICENSE.txt",
+          "sourcePath": "node_modules/@lingo-reader/mobi-parser/LICENSE",
+          "bytes": 1063
+        }
+      ]
+    },
+    {
+      "id": "npm-lingo-reader-shared-0.4.6-1",
+      "name": "@lingo-reader/shared",
+      "version": "0.4.6",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git@github.com:hhk-png/lingo-reader.git",
+      "installedPath": "node_modules/@lingo-reader/shared",
+      "files": [
+        {
+          "path": "raw/npm/npm-lingo-reader-shared-0.4.6-1/0-LICENSE.txt",
+          "sourcePath": "node_modules/@lingo-reader/shared/LICENSE",
+          "bytes": 1063
+        }
+      ]
+    },
+    {
+      "id": "npm-napi-rs-canvas-win32-x64-msvc-0.1.100-2",
+      "name": "@napi-rs/canvas-win32-x64-msvc",
+      "version": "0.1.100",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。 本包缺独立许可文件，补充来源见清单。",
+      "source": "git+https://github.com/Brooooooklyn/canvas.git",
+      "installedPath": "node_modules/@napi-rs/canvas-win32-x64-msvc",
+      "files": [
+        {
+          "path": "raw/npm/npm-napi-rs-canvas-win32-x64-msvc-0.1.100-2/0-LICENSE.txt",
+          "sourcePath": "node_modules/@napi-rs/canvas/LICENSE",
+          "bytes": 1075
+        }
+      ]
+    },
+    {
+      "id": "npm-napi-rs-canvas-0.1.100-3",
+      "name": "@napi-rs/canvas",
+      "version": "0.1.100",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+https://github.com/Brooooooklyn/canvas.git",
+      "installedPath": "node_modules/@napi-rs/canvas",
+      "files": [
+        {
+          "path": "raw/npm/npm-napi-rs-canvas-0.1.100-3/0-LICENSE.txt",
+          "sourcePath": "node_modules/@napi-rs/canvas/LICENSE",
+          "bytes": 1075
+        }
+      ]
+    },
+    {
+      "id": "npm-types-debug-4.1.13-4",
+      "name": "@types/debug",
+      "version": "4.1.13",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+      "installedPath": "node_modules/@types/debug",
+      "files": [
+        {
+          "path": "raw/npm/npm-types-debug-4.1.13-4/0-LICENSE.txt",
+          "sourcePath": "node_modules/@types/debug/LICENSE",
+          "bytes": 1141
+        }
+      ]
+    },
+    {
+      "id": "npm-types-estree-jsx-1.0.5-5",
+      "name": "@types/estree-jsx",
+      "version": "1.0.5",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+      "installedPath": "node_modules/@types/estree-jsx",
+      "files": [
+        {
+          "path": "raw/npm/npm-types-estree-jsx-1.0.5-5/0-LICENSE.txt",
+          "sourcePath": "node_modules/@types/estree-jsx/LICENSE",
+          "bytes": 1141
+        }
+      ]
+    },
+    {
+      "id": "npm-types-estree-1.0.9-6",
+      "name": "@types/estree",
+      "version": "1.0.9",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+      "installedPath": "node_modules/@types/estree",
+      "files": [
+        {
+          "path": "raw/npm/npm-types-estree-1.0.9-6/0-LICENSE.txt",
+          "sourcePath": "node_modules/@types/estree/LICENSE",
+          "bytes": 1141
+        }
+      ]
+    },
+    {
+      "id": "npm-types-hast-3.0.5-7",
+      "name": "@types/hast",
+      "version": "3.0.5",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+      "installedPath": "node_modules/@types/hast",
+      "files": [
+        {
+          "path": "raw/npm/npm-types-hast-3.0.5-7/0-LICENSE.txt",
+          "sourcePath": "node_modules/@types/hast/LICENSE",
+          "bytes": 1141
+        }
+      ]
+    },
+    {
+      "id": "npm-types-katex-0.16.8-8",
+      "name": "@types/katex",
+      "version": "0.16.8",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+      "installedPath": "node_modules/@types/katex",
+      "files": [
+        {
+          "path": "raw/npm/npm-types-katex-0.16.8-8/0-LICENSE.txt",
+          "sourcePath": "node_modules/@types/katex/LICENSE",
+          "bytes": 1141
+        }
+      ]
+    },
+    {
+      "id": "npm-types-mdast-4.0.4-9",
+      "name": "@types/mdast",
+      "version": "4.0.4",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+      "installedPath": "node_modules/@types/mdast",
+      "files": [
+        {
+          "path": "raw/npm/npm-types-mdast-4.0.4-9/0-LICENSE.txt",
+          "sourcePath": "node_modules/@types/mdast/LICENSE",
+          "bytes": 1141
+        }
+      ]
+    },
+    {
+      "id": "npm-types-ms-2.1.0-10",
+      "name": "@types/ms",
+      "version": "2.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+      "installedPath": "node_modules/@types/ms",
+      "files": [
+        {
+          "path": "raw/npm/npm-types-ms-2.1.0-10/0-LICENSE.txt",
+          "sourcePath": "node_modules/@types/ms/LICENSE",
+          "bytes": 1141
+        }
+      ]
+    },
+    {
+      "id": "npm-types-node-25.9.9-11",
+      "name": "@types/node",
+      "version": "25.9.9",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+      "installedPath": "node_modules/docx/node_modules/@types/node",
+      "files": [
+        {
+          "path": "raw/npm/npm-types-node-25.9.9-11/0-LICENSE.txt",
+          "sourcePath": "node_modules/docx/node_modules/@types/node/LICENSE",
+          "bytes": 1141
+        }
+      ]
+    },
+    {
+      "id": "npm-types-unist-2.0.11-12",
+      "name": "@types/unist",
+      "version": "2.0.11",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+      "installedPath": "node_modules/parse-entities/node_modules/@types/unist",
+      "files": [
+        {
+          "path": "raw/npm/npm-types-unist-2.0.11-12/0-LICENSE.txt",
+          "sourcePath": "node_modules/parse-entities/node_modules/@types/unist/LICENSE",
+          "bytes": 1141
+        }
+      ]
+    },
+    {
+      "id": "npm-types-unist-3.0.3-13",
+      "name": "@types/unist",
+      "version": "3.0.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+      "installedPath": "node_modules/@types/unist",
+      "files": [
+        {
+          "path": "raw/npm/npm-types-unist-3.0.3-13/0-LICENSE.txt",
+          "sourcePath": "node_modules/@types/unist/LICENSE",
+          "bytes": 1141
+        }
+      ]
+    },
+    {
+      "id": "npm-ungap-structured-clone-1.4.0-14",
+      "name": "@ungap/structured-clone",
+      "version": "1.4.0",
+      "category": "应用依赖",
+      "license": "ISC",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+https://github.com/ungap/structured-clone.git",
+      "installedPath": "node_modules/@ungap/structured-clone",
+      "files": [
+        {
+          "path": "raw/npm/npm-ungap-structured-clone-1.4.0-14/0-LICENSE.txt",
+          "sourcePath": "node_modules/@ungap/structured-clone/LICENSE",
+          "bytes": 765
+        }
+      ]
+    },
+    {
+      "id": "npm-bail-2.0.2-15",
+      "name": "bail",
+      "version": "2.0.2",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/bail",
+      "installedPath": "node_modules/bail",
+      "files": [
+        {
+          "path": "raw/npm/npm-bail-2.0.2-15/0-license.txt",
+          "sourcePath": "node_modules/bail/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-ccount-2.0.1-16",
+      "name": "ccount",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/ccount",
+      "installedPath": "node_modules/ccount",
+      "files": [
+        {
+          "path": "raw/npm/npm-ccount-2.0.1-16/0-license.txt",
+          "sourcePath": "node_modules/ccount/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-character-entities-html4-2.1.0-17",
+      "name": "character-entities-html4",
+      "version": "2.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/character-entities-html4",
+      "installedPath": "node_modules/character-entities-html4",
+      "files": [
+        {
+          "path": "raw/npm/npm-character-entities-html4-2.1.0-17/0-license.txt",
+          "sourcePath": "node_modules/character-entities-html4/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-character-entities-legacy-3.0.0-18",
+      "name": "character-entities-legacy",
+      "version": "3.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/character-entities-legacy",
+      "installedPath": "node_modules/character-entities-legacy",
+      "files": [
+        {
+          "path": "raw/npm/npm-character-entities-legacy-3.0.0-18/0-license.txt",
+          "sourcePath": "node_modules/character-entities-legacy/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-character-entities-2.0.2-19",
+      "name": "character-entities",
+      "version": "2.0.2",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/character-entities",
+      "installedPath": "node_modules/character-entities",
+      "files": [
+        {
+          "path": "raw/npm/npm-character-entities-2.0.2-19/0-license.txt",
+          "sourcePath": "node_modules/character-entities/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-character-reference-invalid-2.0.1-20",
+      "name": "character-reference-invalid",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/character-reference-invalid",
+      "installedPath": "node_modules/character-reference-invalid",
+      "files": [
+        {
+          "path": "raw/npm/npm-character-reference-invalid-2.0.1-20/0-license.txt",
+          "sourcePath": "node_modules/character-reference-invalid/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-clsx-2.1.1-21",
+      "name": "clsx",
+      "version": "2.1.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "lukeed/clsx",
+      "installedPath": "node_modules/clsx",
+      "files": [
+        {
+          "path": "raw/npm/npm-clsx-2.1.1-21/0-license.txt",
+          "sourcePath": "node_modules/clsx/license",
+          "bytes": 1104
+        }
+      ]
+    },
+    {
+      "id": "npm-comma-separated-tokens-2.0.3-22",
+      "name": "comma-separated-tokens",
+      "version": "2.0.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/comma-separated-tokens",
+      "installedPath": "node_modules/comma-separated-tokens",
+      "files": [
+        {
+          "path": "raw/npm/npm-comma-separated-tokens-2.0.3-22/0-license.txt",
+          "sourcePath": "node_modules/comma-separated-tokens/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-commander-8.3.0-23",
+      "name": "commander",
+      "version": "8.3.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/tj/commander.js.git",
+      "installedPath": "node_modules/commander",
+      "files": [
+        {
+          "path": "raw/npm/npm-commander-8.3.0-23/0-LICENSE.txt",
+          "sourcePath": "node_modules/commander/LICENSE",
+          "bytes": 1098
+        }
+      ]
+    },
+    {
+      "id": "npm-core-util-is-1.0.3-24",
+      "name": "core-util-is",
+      "version": "1.0.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git://github.com/isaacs/core-util-is",
+      "installedPath": "node_modules/core-util-is",
+      "files": [
+        {
+          "path": "raw/npm/npm-core-util-is-1.0.3-24/0-LICENSE.txt",
+          "sourcePath": "node_modules/core-util-is/LICENSE",
+          "bytes": 1077
+        }
+      ]
+    },
+    {
+      "id": "npm-debug-4.4.3-25",
+      "name": "debug",
+      "version": "4.4.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git://github.com/debug-js/debug.git",
+      "installedPath": "node_modules/debug",
+      "files": [
+        {
+          "path": "raw/npm/npm-debug-4.4.3-25/0-LICENSE.txt",
+          "sourcePath": "node_modules/debug/LICENSE",
+          "bytes": 1139
+        }
+      ]
+    },
+    {
+      "id": "npm-decode-named-character-reference-1.3.0-26",
+      "name": "decode-named-character-reference",
+      "version": "1.3.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/decode-named-character-reference",
+      "installedPath": "node_modules/decode-named-character-reference",
+      "files": [
+        {
+          "path": "raw/npm/npm-decode-named-character-reference-1.3.0-26/0-license.txt",
+          "sourcePath": "node_modules/decode-named-character-reference/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-dequal-2.0.3-27",
+      "name": "dequal",
+      "version": "2.0.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "lukeed/dequal",
+      "installedPath": "node_modules/dequal",
+      "files": [
+        {
+          "path": "raw/npm/npm-dequal-2.0.3-27/0-license.txt",
+          "sourcePath": "node_modules/dequal/license",
+          "bytes": 1114
+        }
+      ]
+    },
+    {
+      "id": "npm-devlop-1.1.0-28",
+      "name": "devlop",
+      "version": "1.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/devlop",
+      "installedPath": "node_modules/devlop",
+      "files": [
+        {
+          "path": "raw/npm/npm-devlop-1.1.0-28/0-license.txt",
+          "sourcePath": "node_modules/devlop/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-docx-9.6.1-29",
+      "name": "docx",
+      "version": "9.6.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+https://github.com/dolanmiu/docx.git",
+      "installedPath": "node_modules/docx",
+      "files": [
+        {
+          "path": "raw/npm/npm-docx-9.6.1-29/0-LICENSE.txt",
+          "sourcePath": "node_modules/docx/LICENSE",
+          "bytes": 1072
+        }
+      ]
+    },
+    {
+      "id": "npm-entities-6.0.1-30",
+      "name": "entities",
+      "version": "6.0.1",
+      "category": "应用依赖",
+      "license": "BSD-2-Clause",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git://github.com/fb55/entities.git",
+      "installedPath": "node_modules/entities",
+      "files": [
+        {
+          "path": "raw/npm/npm-entities-6.0.1-30/0-LICENSE.txt",
+          "sourcePath": "node_modules/entities/LICENSE",
+          "bytes": 1260
+        }
+      ]
+    },
+    {
+      "id": "npm-escape-string-regexp-5.0.0-31",
+      "name": "escape-string-regexp",
+      "version": "5.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "sindresorhus/escape-string-regexp",
+      "installedPath": "node_modules/escape-string-regexp",
+      "files": [
+        {
+          "path": "raw/npm/npm-escape-string-regexp-5.0.0-31/0-license.txt",
+          "sourcePath": "node_modules/escape-string-regexp/license",
+          "bytes": 1117
+        }
+      ]
+    },
+    {
+      "id": "npm-estree-util-is-identifier-name-3.0.0-32",
+      "name": "estree-util-is-identifier-name",
+      "version": "3.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/estree-util-is-identifier-name",
+      "installedPath": "node_modules/estree-util-is-identifier-name",
+      "files": [
+        {
+          "path": "raw/npm/npm-estree-util-is-identifier-name-3.0.0-32/0-license.txt",
+          "sourcePath": "node_modules/estree-util-is-identifier-name/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-events-3.3.0-33",
+      "name": "events",
+      "version": "3.3.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git://github.com/Gozala/events.git",
+      "installedPath": "node_modules/events",
+      "files": [
+        {
+          "path": "raw/npm/npm-events-3.3.0-33/0-LICENSE.txt",
+          "sourcePath": "node_modules/events/LICENSE",
+          "bytes": 1081
+        }
+      ]
+    },
+    {
+      "id": "npm-extend-3.0.2-34",
+      "name": "extend",
+      "version": "3.0.2",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/justmoon/node-extend.git",
+      "installedPath": "node_modules/extend",
+      "files": [
+        {
+          "path": "raw/npm/npm-extend-3.0.2-34/0-LICENSE.txt",
+          "sourcePath": "node_modules/extend/LICENSE",
+          "bytes": 1081
+        }
+      ]
+    },
+    {
+      "id": "npm-fflate-0.8.3-35",
+      "name": "fflate",
+      "version": "0.8.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/101arrowz/fflate",
+      "installedPath": "node_modules/fflate",
+      "files": [
+        {
+          "path": "raw/npm/npm-fflate-0.8.3-35/0-LICENSE.txt",
+          "sourcePath": "node_modules/fflate/LICENSE",
+          "bytes": 1069
+        }
+      ]
+    },
+    {
+      "id": "npm-hash.js-1.1.7-36",
+      "name": "hash.js",
+      "version": "1.1.7",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。 许可全文在随包README中，保留该原文。",
+      "source": "git@github.com:indutny/hash.js",
+      "installedPath": "node_modules/hash.js",
+      "files": [
+        {
+          "path": "raw/npm/npm-hash.js-1.1.7-36/0-README.md.txt",
+          "sourcePath": "node_modules/hash.js/README.md",
+          "bytes": 1515
+        }
+      ]
+    },
+    {
+      "id": "npm-hast-util-from-dom-5.0.1-37",
+      "name": "hast-util-from-dom",
+      "version": "5.0.1",
+      "category": "应用依赖",
+      "license": "ISC",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/hast-util-from-dom",
+      "installedPath": "node_modules/hast-util-from-dom",
+      "files": [
+        {
+          "path": "raw/npm/npm-hast-util-from-dom-5.0.1-37/0-license.txt",
+          "sourcePath": "node_modules/hast-util-from-dom/license",
+          "bytes": 760
+        }
+      ]
+    },
+    {
+      "id": "npm-hast-util-from-html-isomorphic-2.0.0-38",
+      "name": "hast-util-from-html-isomorphic",
+      "version": "2.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/hast-util-from-html-isomorphic",
+      "installedPath": "node_modules/hast-util-from-html-isomorphic",
+      "files": [
+        {
+          "path": "raw/npm/npm-hast-util-from-html-isomorphic-2.0.0-38/0-license.txt",
+          "sourcePath": "node_modules/hast-util-from-html-isomorphic/license",
+          "bytes": 1101
+        }
+      ]
+    },
+    {
+      "id": "npm-hast-util-from-html-2.0.3-39",
+      "name": "hast-util-from-html",
+      "version": "2.0.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/hast-util-from-html",
+      "installedPath": "node_modules/hast-util-from-html",
+      "files": [
+        {
+          "path": "raw/npm/npm-hast-util-from-html-2.0.3-39/0-license.txt",
+          "sourcePath": "node_modules/hast-util-from-html/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-hast-util-from-parse5-8.0.3-40",
+      "name": "hast-util-from-parse5",
+      "version": "8.0.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/hast-util-from-parse5",
+      "installedPath": "node_modules/hast-util-from-parse5",
+      "files": [
+        {
+          "path": "raw/npm/npm-hast-util-from-parse5-8.0.3-40/0-license.txt",
+          "sourcePath": "node_modules/hast-util-from-parse5/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-hast-util-parse-selector-4.0.0-41",
+      "name": "hast-util-parse-selector",
+      "version": "4.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/hast-util-parse-selector",
+      "installedPath": "node_modules/hast-util-parse-selector",
+      "files": [
+        {
+          "path": "raw/npm/npm-hast-util-parse-selector-4.0.0-41/0-license.txt",
+          "sourcePath": "node_modules/hast-util-parse-selector/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-hast-util-to-jsx-runtime-2.3.6-42",
+      "name": "hast-util-to-jsx-runtime",
+      "version": "2.3.6",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/hast-util-to-jsx-runtime",
+      "installedPath": "node_modules/hast-util-to-jsx-runtime",
+      "files": [
+        {
+          "path": "raw/npm/npm-hast-util-to-jsx-runtime-2.3.6-42/0-license.txt",
+          "sourcePath": "node_modules/hast-util-to-jsx-runtime/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-hast-util-to-text-4.0.3-43",
+      "name": "hast-util-to-text",
+      "version": "4.0.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/hast-util-to-text",
+      "installedPath": "node_modules/hast-util-to-text",
+      "files": [
+        {
+          "path": "raw/npm/npm-hast-util-to-text-4.0.3-43/0-license.txt",
+          "sourcePath": "node_modules/hast-util-to-text/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-hast-util-whitespace-3.0.0-44",
+      "name": "hast-util-whitespace",
+      "version": "3.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/hast-util-whitespace",
+      "installedPath": "node_modules/hast-util-whitespace",
+      "files": [
+        {
+          "path": "raw/npm/npm-hast-util-whitespace-3.0.0-44/0-license.txt",
+          "sourcePath": "node_modules/hast-util-whitespace/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-hastscript-9.0.1-45",
+      "name": "hastscript",
+      "version": "9.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/hastscript",
+      "installedPath": "node_modules/hastscript",
+      "files": [
+        {
+          "path": "raw/npm/npm-hastscript-9.0.1-45/0-license.txt",
+          "sourcePath": "node_modules/hastscript/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-html-url-attributes-3.0.1-46",
+      "name": "html-url-attributes",
+      "version": "3.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/rehypejs/rehype-minify/tree/main/packages/html-url-attributes",
+      "installedPath": "node_modules/html-url-attributes",
+      "files": [
+        {
+          "path": "raw/npm/npm-html-url-attributes-3.0.1-46/0-license.txt",
+          "sourcePath": "node_modules/html-url-attributes/license",
+          "bytes": 1070
+        }
+      ]
+    },
+    {
+      "id": "npm-immediate-3.0.6-47",
+      "name": "immediate",
+      "version": "3.0.6",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git://github.com/calvinmetcalf/immediate.git",
+      "installedPath": "node_modules/immediate",
+      "files": [
+        {
+          "path": "raw/npm/npm-immediate-3.0.6-47/0-LICENSE.txt.txt",
+          "sourcePath": "node_modules/immediate/LICENSE.txt",
+          "bytes": 1115
+        }
+      ]
+    },
+    {
+      "id": "npm-inherits-2.0.4-48",
+      "name": "inherits",
+      "version": "2.0.4",
+      "category": "应用依赖",
+      "license": "ISC",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git://github.com/isaacs/inherits",
+      "installedPath": "node_modules/inherits",
+      "files": [
+        {
+          "path": "raw/npm/npm-inherits-2.0.4-48/0-LICENSE.txt",
+          "sourcePath": "node_modules/inherits/LICENSE",
+          "bytes": 749
+        }
+      ]
+    },
+    {
+      "id": "npm-inline-style-parser-0.2.7-49",
+      "name": "inline-style-parser",
+      "version": "0.2.7",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+https://github.com/remarkablemark/inline-style-parser.git",
+      "installedPath": "node_modules/inline-style-parser",
+      "files": [
+        {
+          "path": "raw/npm/npm-inline-style-parser-0.2.7-49/0-LICENSE.txt",
+          "sourcePath": "node_modules/inline-style-parser/LICENSE",
+          "bytes": 1098
+        }
+      ]
+    },
+    {
+      "id": "npm-is-alphabetical-2.0.1-50",
+      "name": "is-alphabetical",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/is-alphabetical",
+      "installedPath": "node_modules/is-alphabetical",
+      "files": [
+        {
+          "path": "raw/npm/npm-is-alphabetical-2.0.1-50/0-license.txt",
+          "sourcePath": "node_modules/is-alphabetical/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-is-alphanumerical-2.0.1-51",
+      "name": "is-alphanumerical",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/is-alphanumerical",
+      "installedPath": "node_modules/is-alphanumerical",
+      "files": [
+        {
+          "path": "raw/npm/npm-is-alphanumerical-2.0.1-51/0-license.txt",
+          "sourcePath": "node_modules/is-alphanumerical/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-is-decimal-2.0.1-52",
+      "name": "is-decimal",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/is-decimal",
+      "installedPath": "node_modules/is-decimal",
+      "files": [
+        {
+          "path": "raw/npm/npm-is-decimal-2.0.1-52/0-license.txt",
+          "sourcePath": "node_modules/is-decimal/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-is-hexadecimal-2.0.1-53",
+      "name": "is-hexadecimal",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/is-hexadecimal",
+      "installedPath": "node_modules/is-hexadecimal",
+      "files": [
+        {
+          "path": "raw/npm/npm-is-hexadecimal-2.0.1-53/0-license.txt",
+          "sourcePath": "node_modules/is-hexadecimal/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-is-plain-obj-4.1.0-54",
+      "name": "is-plain-obj",
+      "version": "4.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "sindresorhus/is-plain-obj",
+      "installedPath": "node_modules/is-plain-obj",
+      "files": [
+        {
+          "path": "raw/npm/npm-is-plain-obj-4.1.0-54/0-license.txt",
+          "sourcePath": "node_modules/is-plain-obj/license",
+          "bytes": 1117
+        }
+      ]
+    },
+    {
+      "id": "npm-isarray-1.0.0-55",
+      "name": "isarray",
+      "version": "1.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。 许可全文在随包README中，保留该原文。",
+      "source": "git://github.com/juliangruber/isarray.git",
+      "installedPath": "node_modules/isarray",
+      "files": [
+        {
+          "path": "raw/npm/npm-isarray-1.0.0-55/0-README.md.txt",
+          "sourcePath": "node_modules/isarray/README.md",
+          "bytes": 1890
+        }
+      ]
+    },
+    {
+      "id": "npm-js-tokens-4.0.0-56",
+      "name": "js-tokens",
+      "version": "4.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "lydell/js-tokens",
+      "installedPath": "node_modules/js-tokens",
+      "files": [
+        {
+          "path": "raw/npm/npm-js-tokens-4.0.0-56/0-LICENSE.txt",
+          "sourcePath": "node_modules/js-tokens/LICENSE",
+          "bytes": 1103
+        }
+      ]
+    },
+    {
+      "id": "npm-jszip-3.10.2-57",
+      "name": "jszip",
+      "version": "3.10.2",
+      "category": "应用依赖",
+      "license": "(MIT OR GPL-3.0-or-later)",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。 本软件选择上游提供的MIT许可选项；随包原文仍完整保留两种可选许可。",
+      "source": "https://github.com/Stuk/jszip.git",
+      "installedPath": "node_modules/jszip",
+      "files": [
+        {
+          "path": "raw/npm/npm-jszip-3.10.2-57/0-LICENSE.markdown.txt",
+          "sourcePath": "node_modules/jszip/LICENSE.markdown",
+          "bytes": 33753
+        }
+      ]
+    },
+    {
+      "id": "npm-katex-0.16.42-58",
+      "name": "katex",
+      "version": "0.16.42",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/KaTeX/KaTeX.git",
+      "installedPath": "node_modules/katex",
+      "files": [
+        {
+          "path": "raw/npm/npm-katex-0.16.42-58/0-LICENSE.txt",
+          "sourcePath": "node_modules/katex/LICENSE",
+          "bytes": 1107
+        }
+      ]
+    },
+    {
+      "id": "npm-lie-3.3.0-59",
+      "name": "lie",
+      "version": "3.3.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/calvinmetcalf/lie.git",
+      "installedPath": "node_modules/lie",
+      "files": [
+        {
+          "path": "raw/npm/npm-lie-3.3.0-59/0-license.md.txt",
+          "sourcePath": "node_modules/lie/license.md",
+          "bytes": 1084
+        }
+      ]
+    },
+    {
+      "id": "npm-longest-streak-3.1.0-60",
+      "name": "longest-streak",
+      "version": "3.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/longest-streak",
+      "installedPath": "node_modules/longest-streak",
+      "files": [
+        {
+          "path": "raw/npm/npm-longest-streak-3.1.0-60/0-license.txt",
+          "sourcePath": "node_modules/longest-streak/license",
+          "bytes": 1106
+        }
+      ]
+    },
+    {
+      "id": "npm-loose-envify-1.4.0-61",
+      "name": "loose-envify",
+      "version": "1.4.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git://github.com/zertosh/loose-envify.git",
+      "installedPath": "node_modules/loose-envify",
+      "files": [
+        {
+          "path": "raw/npm/npm-loose-envify-1.4.0-61/0-LICENSE.txt",
+          "sourcePath": "node_modules/loose-envify/LICENSE",
+          "bytes": 1100
+        }
+      ]
+    },
+    {
+      "id": "npm-lucide-react-0.468.0-62",
+      "name": "lucide-react",
+      "version": "0.468.0",
+      "category": "应用依赖",
+      "license": "ISC",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/lucide-icons/lucide.git",
+      "installedPath": "node_modules/lucide-react",
+      "files": [
+        {
+          "path": "raw/npm/npm-lucide-react-0.468.0-62/0-LICENSE.txt",
+          "sourcePath": "node_modules/lucide-react/LICENSE",
+          "bytes": 880
+        }
+      ]
+    },
+    {
+      "id": "npm-make-cancellable-promise-2.0.0-63",
+      "name": "make-cancellable-promise",
+      "version": "2.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+https://github.com/wojtekmaj/make-cancellable-promise.git",
+      "installedPath": "node_modules/make-cancellable-promise",
+      "files": [
+        {
+          "path": "raw/npm/npm-make-cancellable-promise-2.0.0-63/0-LICENSE.txt",
+          "sourcePath": "node_modules/make-cancellable-promise/LICENSE",
+          "bytes": 1076
+        }
+      ]
+    },
+    {
+      "id": "npm-make-event-props-2.0.0-64",
+      "name": "make-event-props",
+      "version": "2.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+https://github.com/wojtekmaj/make-event-props.git",
+      "installedPath": "node_modules/make-event-props",
+      "files": [
+        {
+          "path": "raw/npm/npm-make-event-props-2.0.0-64/0-LICENSE.txt",
+          "sourcePath": "node_modules/make-event-props/LICENSE",
+          "bytes": 1076
+        }
+      ]
+    },
+    {
+      "id": "npm-markdown-table-3.0.4-65",
+      "name": "markdown-table",
+      "version": "3.0.4",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/markdown-table",
+      "installedPath": "node_modules/markdown-table",
+      "files": [
+        {
+          "path": "raw/npm/npm-markdown-table-3.0.4-65/0-license.txt",
+          "sourcePath": "node_modules/markdown-table/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-mathlive-0.111.1-66",
+      "name": "mathlive",
+      "version": "0.111.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+https://github.com/arnog/mathlive.git",
+      "installedPath": "node_modules/mathlive",
+      "files": [
+        {
+          "path": "raw/npm/npm-mathlive-0.111.1-66/0-LICENSE.txt.txt",
+          "sourcePath": "node_modules/mathlive/LICENSE.txt",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-find-and-replace-3.0.4-67",
+      "name": "mdast-util-find-and-replace",
+      "version": "3.0.4",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-find-and-replace",
+      "installedPath": "node_modules/mdast-util-find-and-replace",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-find-and-replace-3.0.4-67/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-find-and-replace/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-from-markdown-2.1.0-68",
+      "name": "mdast-util-from-markdown",
+      "version": "2.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-from-markdown",
+      "installedPath": "node_modules/mdast-util-from-markdown",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-from-markdown-2.1.0-68/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-from-markdown/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-gfm-autolink-literal-2.0.1-69",
+      "name": "mdast-util-gfm-autolink-literal",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-gfm-autolink-literal",
+      "installedPath": "node_modules/mdast-util-gfm-autolink-literal",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-gfm-autolink-literal-2.0.1-69/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-gfm-autolink-literal/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-gfm-footnote-2.1.0-70",
+      "name": "mdast-util-gfm-footnote",
+      "version": "2.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-gfm-footnote",
+      "installedPath": "node_modules/mdast-util-gfm-footnote",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-gfm-footnote-2.1.0-70/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-gfm-footnote/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-gfm-strikethrough-2.0.1-71",
+      "name": "mdast-util-gfm-strikethrough",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-gfm-strikethrough",
+      "installedPath": "node_modules/mdast-util-gfm-strikethrough",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-gfm-strikethrough-2.0.1-71/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-gfm-strikethrough/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-gfm-table-2.0.0-72",
+      "name": "mdast-util-gfm-table",
+      "version": "2.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-gfm-table",
+      "installedPath": "node_modules/mdast-util-gfm-table",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-gfm-table-2.0.0-72/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-gfm-table/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-gfm-task-list-item-2.0.0-73",
+      "name": "mdast-util-gfm-task-list-item",
+      "version": "2.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-gfm-task-list-item",
+      "installedPath": "node_modules/mdast-util-gfm-task-list-item",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-gfm-task-list-item-2.0.0-73/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-gfm-task-list-item/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-gfm-3.1.0-74",
+      "name": "mdast-util-gfm",
+      "version": "3.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-gfm",
+      "installedPath": "node_modules/mdast-util-gfm",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-gfm-3.1.0-74/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-gfm/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-math-3.0.0-75",
+      "name": "mdast-util-math",
+      "version": "3.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-math",
+      "installedPath": "node_modules/mdast-util-math",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-math-3.0.0-75/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-math/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-mdx-expression-2.0.1-76",
+      "name": "mdast-util-mdx-expression",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-mdx-expression",
+      "installedPath": "node_modules/mdast-util-mdx-expression",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-mdx-expression-2.0.1-76/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-mdx-expression/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-mdx-jsx-3.2.0-77",
+      "name": "mdast-util-mdx-jsx",
+      "version": "3.2.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-mdx-jsx",
+      "installedPath": "node_modules/mdast-util-mdx-jsx",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-mdx-jsx-3.2.0-77/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-mdx-jsx/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-mdxjs-esm-2.0.1-78",
+      "name": "mdast-util-mdxjs-esm",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-mdxjs-esm",
+      "installedPath": "node_modules/mdast-util-mdxjs-esm",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-mdxjs-esm-2.0.1-78/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-mdxjs-esm/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-phrasing-4.1.0-79",
+      "name": "mdast-util-phrasing",
+      "version": "4.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-phrasing",
+      "installedPath": "node_modules/mdast-util-phrasing",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-phrasing-4.1.0-79/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-phrasing/license",
+          "bytes": 1150
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-to-hast-13.2.1-80",
+      "name": "mdast-util-to-hast",
+      "version": "13.2.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-to-hast",
+      "installedPath": "node_modules/mdast-util-to-hast",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-to-hast-13.2.1-80/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-to-hast/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-to-markdown-2.2.1-81",
+      "name": "mdast-util-to-markdown",
+      "version": "2.2.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-to-markdown",
+      "installedPath": "node_modules/mdast-util-to-markdown",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-to-markdown-2.2.1-81/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-to-markdown/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-mdast-util-to-string-4.0.0-82",
+      "name": "mdast-util-to-string",
+      "version": "4.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/mdast-util-to-string",
+      "installedPath": "node_modules/mdast-util-to-string",
+      "files": [
+        {
+          "path": "raw/npm/npm-mdast-util-to-string-4.0.0-82/0-license.txt",
+          "sourcePath": "node_modules/mdast-util-to-string/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-merge-refs-2.0.0-83",
+      "name": "merge-refs",
+      "version": "2.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+https://github.com/wojtekmaj/merge-refs.git",
+      "installedPath": "node_modules/merge-refs",
+      "files": [
+        {
+          "path": "raw/npm/npm-merge-refs-2.0.0-83/0-LICENSE.txt",
+          "sourcePath": "node_modules/merge-refs/LICENSE",
+          "bytes": 1076
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-core-commonmark-2.0.4-84",
+      "name": "micromark-core-commonmark",
+      "version": "2.0.4",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-core-commonmark",
+      "installedPath": "node_modules/micromark-core-commonmark",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-core-commonmark-2.0.4-84/0-license.txt",
+          "sourcePath": "node_modules/micromark-core-commonmark/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-extension-gfm-autolink-literal-2.1.0-85",
+      "name": "micromark-extension-gfm-autolink-literal",
+      "version": "2.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "micromark/micromark-extension-gfm-autolink-literal",
+      "installedPath": "node_modules/micromark-extension-gfm-autolink-literal",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-extension-gfm-autolink-literal-2.1.0-85/0-license.txt",
+          "sourcePath": "node_modules/micromark-extension-gfm-autolink-literal/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-extension-gfm-footnote-2.1.0-86",
+      "name": "micromark-extension-gfm-footnote",
+      "version": "2.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "micromark/micromark-extension-gfm-footnote",
+      "installedPath": "node_modules/micromark-extension-gfm-footnote",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-extension-gfm-footnote-2.1.0-86/0-license.txt",
+          "sourcePath": "node_modules/micromark-extension-gfm-footnote/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-extension-gfm-strikethrough-2.1.0-87",
+      "name": "micromark-extension-gfm-strikethrough",
+      "version": "2.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "micromark/micromark-extension-gfm-strikethrough",
+      "installedPath": "node_modules/micromark-extension-gfm-strikethrough",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-extension-gfm-strikethrough-2.1.0-87/0-license.txt",
+          "sourcePath": "node_modules/micromark-extension-gfm-strikethrough/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-extension-gfm-table-2.1.2-88",
+      "name": "micromark-extension-gfm-table",
+      "version": "2.1.2",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "micromark/micromark-extension-gfm-table",
+      "installedPath": "node_modules/micromark-extension-gfm-table",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-extension-gfm-table-2.1.2-88/0-license.txt",
+          "sourcePath": "node_modules/micromark-extension-gfm-table/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-extension-gfm-tagfilter-2.0.0-89",
+      "name": "micromark-extension-gfm-tagfilter",
+      "version": "2.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "micromark/micromark-extension-gfm-tagfilter",
+      "installedPath": "node_modules/micromark-extension-gfm-tagfilter",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-extension-gfm-tagfilter-2.0.0-89/0-license.txt",
+          "sourcePath": "node_modules/micromark-extension-gfm-tagfilter/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-extension-gfm-task-list-item-2.1.0-90",
+      "name": "micromark-extension-gfm-task-list-item",
+      "version": "2.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "micromark/micromark-extension-gfm-task-list-item",
+      "installedPath": "node_modules/micromark-extension-gfm-task-list-item",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-extension-gfm-task-list-item-2.1.0-90/0-license.txt",
+          "sourcePath": "node_modules/micromark-extension-gfm-task-list-item/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-extension-gfm-3.0.0-91",
+      "name": "micromark-extension-gfm",
+      "version": "3.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "micromark/micromark-extension-gfm",
+      "installedPath": "node_modules/micromark-extension-gfm",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-extension-gfm-3.0.0-91/0-license.txt",
+          "sourcePath": "node_modules/micromark-extension-gfm/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-extension-math-3.1.0-92",
+      "name": "micromark-extension-math",
+      "version": "3.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "micromark/micromark-extension-math",
+      "installedPath": "node_modules/micromark-extension-math",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-extension-math-3.1.0-92/0-license.txt",
+          "sourcePath": "node_modules/micromark-extension-math/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-factory-destination-2.0.1-93",
+      "name": "micromark-factory-destination",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-factory-destination",
+      "installedPath": "node_modules/micromark-factory-destination",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-factory-destination-2.0.1-93/0-license.txt",
+          "sourcePath": "node_modules/micromark-factory-destination/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-factory-label-2.0.1-94",
+      "name": "micromark-factory-label",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-factory-label",
+      "installedPath": "node_modules/micromark-factory-label",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-factory-label-2.0.1-94/0-license.txt",
+          "sourcePath": "node_modules/micromark-factory-label/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-factory-space-2.1.0-95",
+      "name": "micromark-factory-space",
+      "version": "2.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-factory-space",
+      "installedPath": "node_modules/micromark-factory-space",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-factory-space-2.1.0-95/0-license.txt",
+          "sourcePath": "node_modules/micromark-factory-space/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-factory-title-2.0.1-96",
+      "name": "micromark-factory-title",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-factory-title",
+      "installedPath": "node_modules/micromark-factory-title",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-factory-title-2.0.1-96/0-license.txt",
+          "sourcePath": "node_modules/micromark-factory-title/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-factory-whitespace-2.0.1-97",
+      "name": "micromark-factory-whitespace",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-factory-whitespace",
+      "installedPath": "node_modules/micromark-factory-whitespace",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-factory-whitespace-2.0.1-97/0-license.txt",
+          "sourcePath": "node_modules/micromark-factory-whitespace/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-character-2.1.1-98",
+      "name": "micromark-util-character",
+      "version": "2.1.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-character",
+      "installedPath": "node_modules/micromark-util-character",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-character-2.1.1-98/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-character/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-chunked-2.0.1-99",
+      "name": "micromark-util-chunked",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-chunked",
+      "installedPath": "node_modules/micromark-util-chunked",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-chunked-2.0.1-99/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-chunked/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-classify-character-2.0.1-100",
+      "name": "micromark-util-classify-character",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-classify-character",
+      "installedPath": "node_modules/micromark-util-classify-character",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-classify-character-2.0.1-100/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-classify-character/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-combine-extensions-2.0.1-101",
+      "name": "micromark-util-combine-extensions",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-combine-extensions",
+      "installedPath": "node_modules/micromark-util-combine-extensions",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-combine-extensions-2.0.1-101/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-combine-extensions/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-decode-numeric-character-reference-2.0.2-102",
+      "name": "micromark-util-decode-numeric-character-reference",
+      "version": "2.0.2",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-decode-numeric-character-reference",
+      "installedPath": "node_modules/micromark-util-decode-numeric-character-reference",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-decode-numeric-character-reference-2.0.2-102/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-decode-numeric-character-reference/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-decode-string-2.0.1-103",
+      "name": "micromark-util-decode-string",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-decode-string",
+      "installedPath": "node_modules/micromark-util-decode-string",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-decode-string-2.0.1-103/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-decode-string/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-edit-map-1.0.0-104",
+      "name": "micromark-util-edit-map",
+      "version": "1.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-edit-map",
+      "installedPath": "node_modules/micromark-util-edit-map",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-edit-map-1.0.0-104/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-edit-map/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-encode-2.0.1-105",
+      "name": "micromark-util-encode",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-encode",
+      "installedPath": "node_modules/micromark-util-encode",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-encode-2.0.1-105/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-encode/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-html-tag-name-2.0.1-106",
+      "name": "micromark-util-html-tag-name",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-html-tag-name",
+      "installedPath": "node_modules/micromark-util-html-tag-name",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-html-tag-name-2.0.1-106/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-html-tag-name/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-normalize-identifier-2.0.1-107",
+      "name": "micromark-util-normalize-identifier",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-normalize-identifier",
+      "installedPath": "node_modules/micromark-util-normalize-identifier",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-normalize-identifier-2.0.1-107/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-normalize-identifier/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-resolve-all-2.0.1-108",
+      "name": "micromark-util-resolve-all",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-resolve-all",
+      "installedPath": "node_modules/micromark-util-resolve-all",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-resolve-all-2.0.1-108/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-resolve-all/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-sanitize-uri-2.0.1-109",
+      "name": "micromark-util-sanitize-uri",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-sanitize-uri",
+      "installedPath": "node_modules/micromark-util-sanitize-uri",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-sanitize-uri-2.0.1-109/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-sanitize-uri/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-subtokenize-2.1.0-110",
+      "name": "micromark-util-subtokenize",
+      "version": "2.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-subtokenize",
+      "installedPath": "node_modules/micromark-util-subtokenize",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-subtokenize-2.1.0-110/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-subtokenize/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-symbol-2.0.1-111",
+      "name": "micromark-util-symbol",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-symbol",
+      "installedPath": "node_modules/micromark-util-symbol",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-symbol-2.0.1-111/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-symbol/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-util-types-2.0.3-112",
+      "name": "micromark-util-types",
+      "version": "2.0.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-types",
+      "installedPath": "node_modules/micromark-util-types",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-util-types-2.0.3-112/0-license.txt",
+          "sourcePath": "node_modules/micromark-util-types/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-micromark-4.0.3-113",
+      "name": "micromark",
+      "version": "4.0.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/micromark/micromark/tree/main/packages/micromark",
+      "installedPath": "node_modules/micromark",
+      "files": [
+        {
+          "path": "raw/npm/npm-micromark-4.0.3-113/0-license.txt",
+          "sourcePath": "node_modules/micromark/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-minimalistic-assert-1.0.1-114",
+      "name": "minimalistic-assert",
+      "version": "1.0.1",
+      "category": "应用依赖",
+      "license": "ISC",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/calvinmetcalf/minimalistic-assert.git",
+      "installedPath": "node_modules/minimalistic-assert",
+      "files": [
+        {
+          "path": "raw/npm/npm-minimalistic-assert-1.0.1-114/0-LICENSE.txt",
+          "sourcePath": "node_modules/minimalistic-assert/LICENSE",
+          "bytes": 727
+        }
+      ]
+    },
+    {
+      "id": "npm-ms-2.1.3-115",
+      "name": "ms",
+      "version": "2.1.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "vercel/ms",
+      "installedPath": "node_modules/ms",
+      "files": [
+        {
+          "path": "raw/npm/npm-ms-2.1.3-115/0-license.md.txt",
+          "sourcePath": "node_modules/ms/license.md",
+          "bytes": 1079
+        }
+      ]
+    },
+    {
+      "id": "npm-nanoid-5.1.16-116",
+      "name": "nanoid",
+      "version": "5.1.16",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "ai/nanoid",
+      "installedPath": "node_modules/docx/node_modules/nanoid",
+      "files": [
+        {
+          "path": "raw/npm/npm-nanoid-5.1.16-116/0-LICENSE.txt",
+          "sourcePath": "node_modules/docx/node_modules/nanoid/LICENSE",
+          "bytes": 1095
+        }
+      ]
+    },
+    {
+      "id": "npm-pako-1.0.11-117",
+      "name": "pako",
+      "version": "1.0.11",
+      "category": "应用依赖",
+      "license": "(MIT AND Zlib)",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。 同时保留实际zlib移植源码的原始版权/条款；根MIT不覆盖zlib部分。",
+      "source": "nodeca/pako",
+      "installedPath": "node_modules/pako",
+      "files": [
+        {
+          "path": "raw/npm/npm-pako-1.0.11-117/0-LICENSE.txt",
+          "sourcePath": "node_modules/pako/LICENSE",
+          "bytes": 1104
+        },
+        {
+          "path": "raw/npm/npm-pako-1.0.11-117/1-adler32.js.txt",
+          "sourcePath": "node_modules/pako/lib/zlib/adler32.js",
+          "bytes": 1656
+        },
+        {
+          "path": "raw/npm/npm-pako-1.0.11-117/2-constants.js.txt",
+          "sourcePath": "node_modules/pako/lib/zlib/constants.js",
+          "bytes": 2312
+        },
+        {
+          "path": "raw/npm/npm-pako-1.0.11-117/3-crc32.js.txt",
+          "sourcePath": "node_modules/pako/lib/zlib/crc32.js",
+          "bytes": 1750
+        },
+        {
+          "path": "raw/npm/npm-pako-1.0.11-117/4-deflate.js.txt",
+          "sourcePath": "node_modules/pako/lib/zlib/deflate.js",
+          "bytes": 61184
+        },
+        {
+          "path": "raw/npm/npm-pako-1.0.11-117/5-gzheader.js.txt",
+          "sourcePath": "node_modules/pako/lib/zlib/gzheader.js",
+          "bytes": 2240
+        },
+        {
+          "path": "raw/npm/npm-pako-1.0.11-117/6-inffast.js.txt",
+          "sourcePath": "node_modules/pako/lib/zlib/inffast.js",
+          "bytes": 12668
+        },
+        {
+          "path": "raw/npm/npm-pako-1.0.11-117/7-inflate.js.txt",
+          "sourcePath": "node_modules/pako/lib/zlib/inflate.js",
+          "bytes": 50284
+        },
+        {
+          "path": "raw/npm/npm-pako-1.0.11-117/8-inftrees.js.txt",
+          "sourcePath": "node_modules/pako/lib/zlib/inftrees.js",
+          "bytes": 12500
+        },
+        {
+          "path": "raw/npm/npm-pako-1.0.11-117/9-messages.js.txt",
+          "sourcePath": "node_modules/pako/lib/zlib/messages.js",
+          "bytes": 1538
+        },
+        {
+          "path": "raw/npm/npm-pako-1.0.11-117/10-trees.js.txt",
+          "sourcePath": "node_modules/pako/lib/zlib/trees.js",
+          "bytes": 39879
+        },
+        {
+          "path": "raw/npm/npm-pako-1.0.11-117/11-zstream.js.txt",
+          "sourcePath": "node_modules/pako/lib/zlib/zstream.js",
+          "bytes": 1811
+        }
+      ]
+    },
+    {
+      "id": "npm-parse-entities-4.0.2-118",
+      "name": "parse-entities",
+      "version": "4.0.2",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/parse-entities",
+      "installedPath": "node_modules/parse-entities",
+      "files": [
+        {
+          "path": "raw/npm/npm-parse-entities-4.0.2-118/0-license.txt",
+          "sourcePath": "node_modules/parse-entities/license",
+          "bytes": 1101
+        }
+      ]
+    },
+    {
+      "id": "npm-parse5-7.3.0-119",
+      "name": "parse5",
+      "version": "7.3.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git://github.com/inikulin/parse5.git",
+      "installedPath": "node_modules/parse5",
+      "files": [
+        {
+          "path": "raw/npm/npm-parse5-7.3.0-119/0-LICENSE.txt",
+          "sourcePath": "node_modules/parse5/LICENSE",
+          "bytes": 1109
+        }
+      ]
+    },
+    {
+      "id": "npm-path-browserify-1.0.1-120",
+      "name": "path-browserify",
+      "version": "1.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git://github.com/browserify/path-browserify.git",
+      "installedPath": "node_modules/path-browserify",
+      "files": [
+        {
+          "path": "raw/npm/npm-path-browserify-1.0.1-120/0-LICENSE.txt",
+          "sourcePath": "node_modules/path-browserify/LICENSE",
+          "bytes": 1071
+        }
+      ]
+    },
+    {
+      "id": "npm-pdfjs-dist-5.4.296-121",
+      "name": "pdfjs-dist",
+      "version": "5.4.296",
+      "category": "应用依赖",
+      "license": "Apache-2.0",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+https://github.com/mozilla/pdf.js.git",
+      "installedPath": "node_modules/pdfjs-dist",
+      "files": [
+        {
+          "path": "raw/npm/npm-pdfjs-dist-5.4.296-121/0-LICENSE.txt",
+          "sourcePath": "node_modules/pdfjs-dist/LICENSE",
+          "bytes": 10174
+        }
+      ]
+    },
+    {
+      "id": "npm-process-nextick-args-2.0.1-122",
+      "name": "process-nextick-args",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/calvinmetcalf/process-nextick-args.git",
+      "installedPath": "node_modules/process-nextick-args",
+      "files": [
+        {
+          "path": "raw/npm/npm-process-nextick-args-2.0.1-122/0-license.md.txt",
+          "sourcePath": "node_modules/process-nextick-args/license.md",
+          "bytes": 1064
+        }
+      ]
+    },
+    {
+      "id": "npm-property-information-7.2.0-123",
+      "name": "property-information",
+      "version": "7.2.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/property-information",
+      "installedPath": "node_modules/property-information",
+      "files": [
+        {
+          "path": "raw/npm/npm-property-information-7.2.0-123/0-license.txt",
+          "sourcePath": "node_modules/property-information/license",
+          "bytes": 1101
+        }
+      ]
+    },
+    {
+      "id": "npm-react-dom-19.2.4-124",
+      "name": "react-dom",
+      "version": "19.2.4",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/facebook/react.git",
+      "installedPath": "node_modules/react-dom",
+      "files": [
+        {
+          "path": "raw/npm/npm-react-dom-19.2.4-124/0-LICENSE.txt",
+          "sourcePath": "node_modules/react-dom/LICENSE",
+          "bytes": 1088
+        }
+      ]
+    },
+    {
+      "id": "npm-react-markdown-10.1.0-125",
+      "name": "react-markdown",
+      "version": "10.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "remarkjs/react-markdown",
+      "installedPath": "node_modules/react-markdown",
+      "files": [
+        {
+          "path": "raw/npm/npm-react-markdown-10.1.0-125/0-license.txt",
+          "sourcePath": "node_modules/react-markdown/license",
+          "bytes": 1079
+        }
+      ]
+    },
+    {
+      "id": "npm-react-pdf-10.4.1-126",
+      "name": "react-pdf",
+      "version": "10.4.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+https://github.com/wojtekmaj/react-pdf.git",
+      "installedPath": "node_modules/react-pdf",
+      "files": [
+        {
+          "path": "raw/npm/npm-react-pdf-10.4.1-126/0-LICENSE.txt",
+          "sourcePath": "node_modules/react-pdf/LICENSE",
+          "bytes": 1076
+        }
+      ]
+    },
+    {
+      "id": "npm-react-19.2.4-127",
+      "name": "react",
+      "version": "19.2.4",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/facebook/react.git",
+      "installedPath": "node_modules/react",
+      "files": [
+        {
+          "path": "raw/npm/npm-react-19.2.4-127/0-LICENSE.txt",
+          "sourcePath": "node_modules/react/LICENSE",
+          "bytes": 1088
+        }
+      ]
+    },
+    {
+      "id": "npm-readable-stream-2.3.8-128",
+      "name": "readable-stream",
+      "version": "2.3.8",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git://github.com/nodejs/readable-stream",
+      "installedPath": "node_modules/readable-stream",
+      "files": [
+        {
+          "path": "raw/npm/npm-readable-stream-2.3.8-128/0-LICENSE.txt",
+          "sourcePath": "node_modules/readable-stream/LICENSE",
+          "bytes": 2337
+        }
+      ]
+    },
+    {
+      "id": "npm-rehype-katex-7.0.1-129",
+      "name": "rehype-katex",
+      "version": "7.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。 本包缺独立许可文件，补充来源见清单。",
+      "source": "https://github.com/remarkjs/remark-math/tree/main/packages/rehype-katex",
+      "installedPath": "node_modules/rehype-katex",
+      "files": [
+        {
+          "path": "raw/npm/npm-rehype-katex-7.0.1-129/0-rehype-katex-7.0.1-LICENSE.txt.txt",
+          "sourcePath": "licenses/upstream/npm/rehype-katex-7.0.1-LICENSE.txt",
+          "bytes": 1098
+        }
+      ]
+    },
+    {
+      "id": "npm-remark-gfm-4.0.1-130",
+      "name": "remark-gfm",
+      "version": "4.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "remarkjs/remark-gfm",
+      "installedPath": "node_modules/remark-gfm",
+      "files": [
+        {
+          "path": "raw/npm/npm-remark-gfm-4.0.1-130/0-license.txt",
+          "sourcePath": "node_modules/remark-gfm/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-remark-math-6.0.0-131",
+      "name": "remark-math",
+      "version": "6.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。 本包缺独立许可文件，补充来源见清单。",
+      "source": "https://github.com/remarkjs/remark-math/tree/main/packages/remark-math",
+      "installedPath": "node_modules/remark-math",
+      "files": [
+        {
+          "path": "raw/npm/npm-remark-math-6.0.0-131/0-remark-math-6.0.0-LICENSE.txt.txt",
+          "sourcePath": "licenses/upstream/npm/remark-math-6.0.0-LICENSE.txt",
+          "bytes": 1098
+        }
+      ]
+    },
+    {
+      "id": "npm-remark-parse-11.0.0-132",
+      "name": "remark-parse",
+      "version": "11.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/remarkjs/remark/tree/main/packages/remark-parse",
+      "installedPath": "node_modules/remark-parse",
+      "files": [
+        {
+          "path": "raw/npm/npm-remark-parse-11.0.0-132/0-license.txt",
+          "sourcePath": "node_modules/remark-parse/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-remark-rehype-11.1.2-133",
+      "name": "remark-rehype",
+      "version": "11.1.2",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "remarkjs/remark-rehype",
+      "installedPath": "node_modules/remark-rehype",
+      "files": [
+        {
+          "path": "raw/npm/npm-remark-rehype-11.1.2-133/0-license.txt",
+          "sourcePath": "node_modules/remark-rehype/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-remark-stringify-11.0.0-134",
+      "name": "remark-stringify",
+      "version": "11.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/remarkjs/remark/tree/main/packages/remark-stringify",
+      "installedPath": "node_modules/remark-stringify",
+      "files": [
+        {
+          "path": "raw/npm/npm-remark-stringify-11.0.0-134/0-license.txt",
+          "sourcePath": "node_modules/remark-stringify/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-safe-buffer-5.1.2-135",
+      "name": "safe-buffer",
+      "version": "5.1.2",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git://github.com/feross/safe-buffer.git",
+      "installedPath": "node_modules/safe-buffer",
+      "files": [
+        {
+          "path": "raw/npm/npm-safe-buffer-5.1.2-135/0-LICENSE.txt",
+          "sourcePath": "node_modules/safe-buffer/LICENSE",
+          "bytes": 1081
+        }
+      ]
+    },
+    {
+      "id": "npm-sax-1.6.1-136",
+      "name": "sax",
+      "version": "1.6.1",
+      "category": "应用依赖",
+      "license": "BlueOak-1.0.0",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+ssh://git@github.com/isaacs/sax-js.git",
+      "installedPath": "node_modules/sax",
+      "files": [
+        {
+          "path": "raw/npm/npm-sax-1.6.1-136/0-LICENSE.md.txt",
+          "sourcePath": "node_modules/sax/LICENSE.md",
+          "bytes": 1552
+        }
+      ]
+    },
+    {
+      "id": "npm-scheduler-0.27.0-137",
+      "name": "scheduler",
+      "version": "0.27.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/facebook/react.git",
+      "installedPath": "node_modules/scheduler",
+      "files": [
+        {
+          "path": "raw/npm/npm-scheduler-0.27.0-137/0-LICENSE.txt",
+          "sourcePath": "node_modules/scheduler/LICENSE",
+          "bytes": 1088
+        }
+      ]
+    },
+    {
+      "id": "npm-setimmediate-1.0.5-138",
+      "name": "setimmediate",
+      "version": "1.0.5",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "YuzuJS/setImmediate",
+      "installedPath": "node_modules/setimmediate",
+      "files": [
+        {
+          "path": "raw/npm/npm-setimmediate-1.0.5-138/0-LICENSE.txt.txt",
+          "sourcePath": "node_modules/setimmediate/LICENSE.txt",
+          "bytes": 1103
+        }
+      ]
+    },
+    {
+      "id": "npm-space-separated-tokens-2.0.2-139",
+      "name": "space-separated-tokens",
+      "version": "2.0.2",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/space-separated-tokens",
+      "installedPath": "node_modules/space-separated-tokens",
+      "files": [
+        {
+          "path": "raw/npm/npm-space-separated-tokens-2.0.2-139/0-license.txt",
+          "sourcePath": "node_modules/space-separated-tokens/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-string_decoder-1.1.1-140",
+      "name": "string_decoder",
+      "version": "1.1.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git://github.com/nodejs/string_decoder.git",
+      "installedPath": "node_modules/string_decoder",
+      "files": [
+        {
+          "path": "raw/npm/npm-string_decoder-1.1.1-140/0-LICENSE.txt",
+          "sourcePath": "node_modules/string_decoder/LICENSE",
+          "bytes": 2338
+        }
+      ]
+    },
+    {
+      "id": "npm-stringify-entities-4.0.4-141",
+      "name": "stringify-entities",
+      "version": "4.0.4",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/stringify-entities",
+      "installedPath": "node_modules/stringify-entities",
+      "files": [
+        {
+          "path": "raw/npm/npm-stringify-entities-4.0.4-141/0-license.txt",
+          "sourcePath": "node_modules/stringify-entities/license",
+          "bytes": 1106
+        }
+      ]
+    },
+    {
+      "id": "npm-style-to-js-1.1.21-142",
+      "name": "style-to-js",
+      "version": "1.1.21",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+https://github.com/remarkablemark/style-to-js.git",
+      "installedPath": "node_modules/style-to-js",
+      "files": [
+        {
+          "path": "raw/npm/npm-style-to-js-1.1.21-142/0-LICENSE.txt",
+          "sourcePath": "node_modules/style-to-js/LICENSE",
+          "bytes": 1110
+        }
+      ]
+    },
+    {
+      "id": "npm-style-to-object-1.0.14-143",
+      "name": "style-to-object",
+      "version": "1.0.14",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+https://github.com/remarkablemark/style-to-object.git",
+      "installedPath": "node_modules/style-to-object",
+      "files": [
+        {
+          "path": "raw/npm/npm-style-to-object-1.0.14-143/0-LICENSE.txt",
+          "sourcePath": "node_modules/style-to-object/LICENSE",
+          "bytes": 1110
+        }
+      ]
+    },
+    {
+      "id": "npm-tiny-invariant-1.3.3-144",
+      "name": "tiny-invariant",
+      "version": "1.3.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/alexreardon/tiny-invariant.git",
+      "installedPath": "node_modules/tiny-invariant",
+      "files": [
+        {
+          "path": "raw/npm/npm-tiny-invariant-1.3.3-144/0-LICENSE.txt",
+          "sourcePath": "node_modules/tiny-invariant/LICENSE",
+          "bytes": 1073
+        }
+      ]
+    },
+    {
+      "id": "npm-trim-lines-3.0.1-145",
+      "name": "trim-lines",
+      "version": "3.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/trim-lines",
+      "installedPath": "node_modules/trim-lines",
+      "files": [
+        {
+          "path": "raw/npm/npm-trim-lines-3.0.1-145/0-license.txt",
+          "sourcePath": "node_modules/trim-lines/license",
+          "bytes": 1106
+        }
+      ]
+    },
+    {
+      "id": "npm-trough-2.2.0-146",
+      "name": "trough",
+      "version": "2.2.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/trough",
+      "installedPath": "node_modules/trough",
+      "files": [
+        {
+          "path": "raw/npm/npm-trough-2.2.0-146/0-license.txt",
+          "sourcePath": "node_modules/trough/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-undici-types-7.24.6-147",
+      "name": "undici-types",
+      "version": "7.24.6",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+https://github.com/nodejs/undici.git",
+      "installedPath": "node_modules/undici-types",
+      "files": [
+        {
+          "path": "raw/npm/npm-undici-types-7.24.6-147/0-LICENSE.txt",
+          "sourcePath": "node_modules/undici-types/LICENSE",
+          "bytes": 1090
+        }
+      ]
+    },
+    {
+      "id": "npm-unified-11.0.5-148",
+      "name": "unified",
+      "version": "11.0.5",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "unifiedjs/unified",
+      "installedPath": "node_modules/unified",
+      "files": [
+        {
+          "path": "raw/npm/npm-unified-11.0.5-148/0-license.txt",
+          "sourcePath": "node_modules/unified/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-unist-util-is-6.0.1-149",
+      "name": "unist-util-is",
+      "version": "6.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/unist-util-is",
+      "installedPath": "node_modules/unist-util-is",
+      "files": [
+        {
+          "path": "raw/npm/npm-unist-util-is-6.0.1-149/0-license.txt",
+          "sourcePath": "node_modules/unist-util-is/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-unist-util-position-5.0.0-150",
+      "name": "unist-util-position",
+      "version": "5.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/unist-util-position",
+      "installedPath": "node_modules/unist-util-position",
+      "files": [
+        {
+          "path": "raw/npm/npm-unist-util-position-5.0.0-150/0-license.txt",
+          "sourcePath": "node_modules/unist-util-position/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-unist-util-remove-position-5.0.0-151",
+      "name": "unist-util-remove-position",
+      "version": "5.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/unist-util-remove-position",
+      "installedPath": "node_modules/unist-util-remove-position",
+      "files": [
+        {
+          "path": "raw/npm/npm-unist-util-remove-position-5.0.0-151/0-license.txt",
+          "sourcePath": "node_modules/unist-util-remove-position/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-unist-util-stringify-position-4.0.0-152",
+      "name": "unist-util-stringify-position",
+      "version": "4.0.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/unist-util-stringify-position",
+      "installedPath": "node_modules/unist-util-stringify-position",
+      "files": [
+        {
+          "path": "raw/npm/npm-unist-util-stringify-position-4.0.0-152/0-license.txt",
+          "sourcePath": "node_modules/unist-util-stringify-position/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-unist-util-visit-parents-6.1.0-153",
+      "name": "unist-util-visit-parents",
+      "version": "6.1.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/unist-util-visit-parents",
+      "installedPath": "node_modules/unist-util-visit-parents",
+      "files": [
+        {
+          "path": "raw/npm/npm-unist-util-visit-parents-6.1.0-153/0-license.txt",
+          "sourcePath": "node_modules/unist-util-visit-parents/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-unist-util-visit-5.2.0-154",
+      "name": "unist-util-visit",
+      "version": "5.2.0",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "syntax-tree/unist-util-visit",
+      "installedPath": "node_modules/unist-util-visit",
+      "files": [
+        {
+          "path": "raw/npm/npm-unist-util-visit-5.2.0-154/0-license.txt",
+          "sourcePath": "node_modules/unist-util-visit/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-util-deprecate-1.0.2-155",
+      "name": "util-deprecate",
+      "version": "1.0.2",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git://github.com/TooTallNate/util-deprecate.git",
+      "installedPath": "node_modules/util-deprecate",
+      "files": [
+        {
+          "path": "raw/npm/npm-util-deprecate-1.0.2-155/0-LICENSE.txt",
+          "sourcePath": "node_modules/util-deprecate/LICENSE",
+          "bytes": 1102
+        }
+      ]
+    },
+    {
+      "id": "npm-vfile-location-5.0.3-156",
+      "name": "vfile-location",
+      "version": "5.0.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "vfile/vfile-location",
+      "installedPath": "node_modules/vfile-location",
+      "files": [
+        {
+          "path": "raw/npm/npm-vfile-location-5.0.3-156/0-license.txt",
+          "sourcePath": "node_modules/vfile-location/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-vfile-message-4.0.3-157",
+      "name": "vfile-message",
+      "version": "4.0.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "vfile/vfile-message",
+      "installedPath": "node_modules/vfile-message",
+      "files": [
+        {
+          "path": "raw/npm/npm-vfile-message-4.0.3-157/0-license.txt",
+          "sourcePath": "node_modules/vfile-message/license",
+          "bytes": 1094
+        }
+      ]
+    },
+    {
+      "id": "npm-vfile-6.0.3-158",
+      "name": "vfile",
+      "version": "6.0.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "vfile/vfile",
+      "installedPath": "node_modules/vfile",
+      "files": [
+        {
+          "path": "raw/npm/npm-vfile-6.0.3-158/0-license.txt",
+          "sourcePath": "node_modules/vfile/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-warning-4.0.3-159",
+      "name": "warning",
+      "version": "4.0.3",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "https://github.com/BerkeleyTrue/warning.git",
+      "installedPath": "node_modules/warning",
+      "files": [
+        {
+          "path": "raw/npm/npm-warning-4.0.3-159/0-LICENSE.md.txt",
+          "sourcePath": "node_modules/warning/LICENSE.md",
+          "bytes": 1080
+        }
+      ]
+    },
+    {
+      "id": "npm-web-namespaces-2.0.1-160",
+      "name": "web-namespaces",
+      "version": "2.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/web-namespaces",
+      "installedPath": "node_modules/web-namespaces",
+      "files": [
+        {
+          "path": "raw/npm/npm-web-namespaces-2.0.1-160/0-license.txt",
+          "sourcePath": "node_modules/web-namespaces/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-xml-js-1.6.11-161",
+      "name": "xml-js",
+      "version": "1.6.11",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "git+https://github.com/nashwaan/xml-js.git",
+      "installedPath": "node_modules/xml-js",
+      "files": [
+        {
+          "path": "raw/npm/npm-xml-js-1.6.11-161/0-LICENSE.txt",
+          "sourcePath": "node_modules/xml-js/LICENSE",
+          "bytes": 1108
+        }
+      ]
+    },
+    {
+      "id": "npm-xml-1.0.1-162",
+      "name": "xml",
+      "version": "1.0.1",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "http://github.com/dylang/node-xml",
+      "installedPath": "node_modules/xml",
+      "files": [
+        {
+          "path": "raw/npm/npm-xml-1.0.1-162/0-LICENSE.txt",
+          "sourcePath": "node_modules/xml/LICENSE",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "npm-zwitch-2.0.4-163",
+      "name": "zwitch",
+      "version": "2.0.4",
+      "category": "应用依赖",
+      "license": "MIT",
+      "relationship": "installed-runtime-package",
+      "note": "实际安装的运行依赖；保留包中提供的原版权与许可文本。",
+      "source": "wooorm/zwitch",
+      "installedPath": "node_modules/zwitch",
+      "files": [
+        {
+          "path": "raw/npm/npm-zwitch-2.0.4-163/0-license.txt",
+          "sourcePath": "node_modules/zwitch/license",
+          "bytes": 1099
+        }
+      ]
+    },
+    {
+      "id": "canvas-Cargo.toml",
+      "name": "canvas-Cargo.toml",
+      "version": "",
+      "category": "来源与参考",
+      "license": "见原文",
+      "relationship": "evidence",
+      "note": "对应版本的一手来源证据；不是单独分发组件的断言。",
+      "source": "https://raw.githubusercontent.com/Brooooooklyn/canvas/v0.1.100/Cargo.toml",
+      "files": [
+        {
+          "path": "raw/upstream/native/evidence/canvas-Cargo.toml.txt",
+          "sourcePath": "licenses/upstream/native/evidence/canvas-Cargo.toml",
+          "bytes": 1610
+        }
+      ]
+    },
+    {
+      "id": "canvas-build-skia",
+      "name": "canvas-build-skia",
+      "version": "",
+      "category": "来源与参考",
+      "license": "见原文",
+      "relationship": "evidence",
+      "note": "对应版本的一手来源证据；不是单独分发组件的断言。",
+      "source": "https://raw.githubusercontent.com/Brooooooklyn/canvas/v0.1.100/scripts/build-skia.js",
+      "files": [
+        {
+          "path": "raw/upstream/native/evidence/build-skia.js.txt",
+          "sourcePath": "licenses/upstream/native/evidence/build-skia.js",
+          "bytes": 14230
+        }
+      ]
+    },
+    {
+      "id": "skia-DEPS",
+      "name": "skia-DEPS",
+      "version": "",
+      "category": "来源与参考",
+      "license": "见原文",
+      "relationship": "evidence",
+      "note": "对应版本的一手来源证据；不是单独分发组件的断言。",
+      "source": "https://raw.githubusercontent.com/google/skia/fe2718df5f53a681087be6f0539045ca1b4b8c09/DEPS",
+      "files": [
+        {
+          "path": "raw/upstream/native/evidence/Skia-DEPS.txt",
+          "sourcePath": "licenses/upstream/native/evidence/Skia-DEPS",
+          "bytes": 10372
+        }
+      ]
+    },
+    {
+      "id": "skia-LICENSE",
+      "name": "skia-LICENSE",
+      "version": "",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "精确上游版本或修订取得的原文；未经改写。",
+      "source": "https://raw.githubusercontent.com/google/skia/fe2718df5f53a681087be6f0539045ca1b4b8c09/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/native/skia-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/skia-LICENSE.txt",
+          "bytes": 1507
+        }
+      ]
+    },
+    {
+      "id": "rehype-katex-7.0.1",
+      "name": "rehype-katex-7.0.1",
+      "version": "",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "精确上游版本或修订取得的原文；未经改写。",
+      "source": "https://raw.githubusercontent.com/remarkjs/remark-math/rehype-katex%407.0.1/license",
+      "files": [
+        {
+          "path": "raw/upstream/npm/rehype-katex-7.0.1-LICENSE.txt",
+          "sourcePath": "licenses/upstream/npm/rehype-katex-7.0.1-LICENSE.txt",
+          "bytes": 1098
+        }
+      ]
+    },
+    {
+      "id": "remark-math-6.0.0",
+      "name": "remark-math-6.0.0",
+      "version": "",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "精确上游版本或修订取得的原文；未经改写。",
+      "source": "https://raw.githubusercontent.com/remarkjs/remark-math/6.0.0/license",
+      "files": [
+        {
+          "path": "raw/upstream/npm/remark-math-6.0.0-LICENSE.txt",
+          "sourcePath": "licenses/upstream/npm/remark-math-6.0.0-LICENSE.txt",
+          "bytes": 1098
+        }
+      ]
+    },
+    {
+      "id": "transformers-3.8.1-LICENSE",
+      "name": "transformers-3.8.1-LICENSE",
+      "version": "",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "精确上游版本或修订取得的原文；未经改写。",
+      "source": "https://cdn.jsdelivr.net/npm/@huggingface/transformers@3.8.1/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/transformers-3.8.1-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/transformers-3.8.1-LICENSE.txt",
+          "bytes": 11358
+        }
+      ]
+    },
+    {
+      "id": "transformers-3.8.1-lock",
+      "name": "transformers-3.8.1-lock",
+      "version": "",
+      "category": "来源与参考",
+      "license": "见原文",
+      "relationship": "evidence",
+      "note": "对应版本的一手来源证据；不是单独分发组件的断言。",
+      "source": "https://raw.githubusercontent.com/huggingface/transformers.js/3.8.1/package-lock.json",
+      "files": [
+        {
+          "path": "raw/upstream/translation/evidence/transformers-3.8.1-package-lock.json.txt",
+          "sourcePath": "licenses/upstream/translation/evidence/transformers-3.8.1-package-lock.json",
+          "bytes": 427732
+        }
+      ]
+    },
+    {
+      "id": "jinja-0.5.3-LICENSE",
+      "name": "jinja-0.5.3-LICENSE",
+      "version": "",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "精确上游版本或修订取得的原文；未经改写。",
+      "source": "https://cdn.jsdelivr.net/npm/@huggingface/jinja@0.5.3/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/jinja-0.5.3-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/jinja-0.5.3-LICENSE.txt",
+          "bytes": 1069
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-LICENSE",
+      "name": "onnx-web-LICENSE",
+      "version": "",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "精确上游版本或修订取得的原文；未经改写。",
+      "source": "https://raw.githubusercontent.com/microsoft/onnxruntime/89f8206ba4/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/onnxruntime-web-1.22.0-dev-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/onnxruntime-web-1.22.0-dev-LICENSE.txt",
+          "bytes": 1073
+        }
+      ]
+    },
+    {
+      "id": "onnx-upstream-thirdparty",
+      "name": "onnx-upstream-thirdparty",
+      "version": "",
+      "category": "来源与参考",
+      "license": "见原文",
+      "relationship": "reference-superset",
+      "note": "上游完整第三方汇编参考范围：包含可选及桌面组件，不代表全部编入本产品Web/WASM。",
+      "source": "https://raw.githubusercontent.com/microsoft/onnxruntime/89f8206ba4/ThirdPartyNotices.txt",
+      "files": [
+        {
+          "path": "raw/upstream/translation/ONNX-UPSTREAM-THIRD-PARTY-REFERENCE.txt",
+          "sourcePath": "licenses/upstream/translation/ONNX-UPSTREAM-THIRD-PARTY-REFERENCE.txt",
+          "bytes": 326866
+        }
+      ]
+    },
+    {
+      "id": "native-brotli-LICENSE",
+      "name": "brotli",
+      "version": "6d03dfbedda1615c4cba1211f8d81735575209c8",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Skia DEPS at canvas v0.1.100 submodule revision, combined with enabled build recipe. Not a supplier binary SBOM.",
+      "source": "https://skia.googlesource.com/external/github.com/google/brotli.git/+/6d03dfbedda1615c4cba1211f8d81735575209c8/LICENSE?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/brotli/LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/brotli/LICENSE",
+          "bytes": 1084
+        }
+      ]
+    },
+    {
+      "id": "native-expat-COPYING",
+      "name": "expat",
+      "version": "6154446fccefbf3ca644894f598969113b0c7bcd",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Skia DEPS at canvas v0.1.100 submodule revision, combined with enabled build recipe. Not a supplier binary SBOM.",
+      "source": "https://chromium.googlesource.com/external/github.com/libexpat/libexpat.git/+/6154446fccefbf3ca644894f598969113b0c7bcd/COPYING?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/expat/COPYING.txt",
+          "sourcePath": "licenses/upstream/native/expat/COPYING",
+          "bytes": 1144
+        }
+      ]
+    },
+    {
+      "id": "native-freetype-LICENSE-TXT",
+      "name": "freetype",
+      "version": "264b5fbf5b912b39f98d038bf75d39be0a73f21b",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Skia DEPS at canvas v0.1.100 submodule revision, combined with enabled build recipe. Not a supplier binary SBOM.",
+      "source": "https://chromium.googlesource.com/chromium/src/third_party/freetype2.git/+/264b5fbf5b912b39f98d038bf75d39be0a73f21b/LICENSE.TXT?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/freetype/LICENSE.TXT",
+          "sourcePath": "licenses/upstream/native/freetype/LICENSE.TXT",
+          "bytes": 2149
+        }
+      ]
+    },
+    {
+      "id": "native-freetype-docs-FTL-TXT",
+      "name": "freetype",
+      "version": "264b5fbf5b912b39f98d038bf75d39be0a73f21b",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Skia DEPS at canvas v0.1.100 submodule revision, combined with enabled build recipe. Not a supplier binary SBOM.",
+      "source": "https://chromium.googlesource.com/chromium/src/third_party/freetype2.git/+/264b5fbf5b912b39f98d038bf75d39be0a73f21b/docs/FTL.TXT?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/freetype/docs-FTL.TXT",
+          "sourcePath": "licenses/upstream/native/freetype/docs-FTL.TXT",
+          "bytes": 6743
+        }
+      ]
+    },
+    {
+      "id": "native-harfbuzz-COPYING",
+      "name": "harfbuzz",
+      "version": "9cb1fee51069b206effb4736e443b038d230789d",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Skia DEPS at canvas v0.1.100 submodule revision, combined with enabled build recipe. Not a supplier binary SBOM.",
+      "source": "https://chromium.googlesource.com/external/github.com/harfbuzz/harfbuzz.git/+/9cb1fee51069b206effb4736e443b038d230789d/COPYING?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/harfbuzz/COPYING.txt",
+          "sourcePath": "licenses/upstream/native/harfbuzz/COPYING",
+          "bytes": 1971
+        }
+      ]
+    },
+    {
+      "id": "native-highway-LICENSE",
+      "name": "highway",
+      "version": "424360251cdcfc314cfc528f53c872ecd63af0f0",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Skia DEPS at canvas v0.1.100 submodule revision, combined with enabled build recipe. Not a supplier binary SBOM.",
+      "source": "https://chromium.googlesource.com/external/github.com/google/highway.git/+/424360251cdcfc314cfc528f53c872ecd63af0f0/LICENSE?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/highway/LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/highway/LICENSE",
+          "bytes": 11356
+        }
+      ]
+    },
+    {
+      "id": "native-icu-LICENSE",
+      "name": "icu",
+      "version": "364118a1d9da24bb5b770ac3d762ac144d6da5a4",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Skia DEPS at canvas v0.1.100 submodule revision, combined with enabled build recipe. Not a supplier binary SBOM.",
+      "source": "https://chromium.googlesource.com/chromium/deps/icu.git/+/364118a1d9da24bb5b770ac3d762ac144d6da5a4/LICENSE?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/icu/LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/icu/LICENSE",
+          "bytes": 25185
+        }
+      ]
+    },
+    {
+      "id": "native-libjpeg-turbo-LICENSE-md",
+      "name": "libjpeg-turbo",
+      "version": "e14cbfaa85529d47f9f55b0f104a579c1061f9ad",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Skia DEPS at canvas v0.1.100 submodule revision, combined with enabled build recipe. Not a supplier binary SBOM.",
+      "source": "https://chromium.googlesource.com/chromium/deps/libjpeg_turbo.git/+/e14cbfaa85529d47f9f55b0f104a579c1061f9ad/LICENSE.md?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/libjpeg-turbo/LICENSE.md.txt",
+          "sourcePath": "licenses/upstream/native/libjpeg-turbo/LICENSE.md",
+          "bytes": 5620
+        }
+      ]
+    },
+    {
+      "id": "native-libjxl-LICENSE",
+      "name": "libjxl",
+      "version": "a205468bc5d3a353fb15dae2398a101dff52f2d3",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Skia DEPS at canvas v0.1.100 submodule revision, combined with enabled build recipe. Not a supplier binary SBOM.",
+      "source": "https://chromium.googlesource.com/external/gitlab.com/wg1/jpeg-xl.git/+/a205468bc5d3a353fb15dae2398a101dff52f2d3/LICENSE?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/libjxl/LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/libjxl/LICENSE",
+          "bytes": 1508
+        }
+      ]
+    },
+    {
+      "id": "native-libpng-LICENSE",
+      "name": "libpng",
+      "version": "d5515b5b8be3901aac04e5bd8bd5c89f287bcd33",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Skia DEPS at canvas v0.1.100 submodule revision, combined with enabled build recipe. Not a supplier binary SBOM.",
+      "source": "https://skia.googlesource.com/third_party/libpng.git/+/d5515b5b8be3901aac04e5bd8bd5c89f287bcd33/LICENSE?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/libpng/LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/libpng/LICENSE",
+          "bytes": 5345
+        }
+      ]
+    },
+    {
+      "id": "native-libwebp-COPYING",
+      "name": "libwebp",
+      "version": "845d5476a866141ba35ac133f856fa62f0b7445f",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Skia DEPS at canvas v0.1.100 submodule revision, combined with enabled build recipe. Not a supplier binary SBOM.",
+      "source": "https://chromium.googlesource.com/webm/libwebp.git/+/845d5476a866141ba35ac133f856fa62f0b7445f/COPYING?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/libwebp/COPYING.txt",
+          "sourcePath": "licenses/upstream/native/libwebp/COPYING",
+          "bytes": 1496
+        }
+      ]
+    },
+    {
+      "id": "native-libwebp-PATENTS",
+      "name": "libwebp",
+      "version": "845d5476a866141ba35ac133f856fa62f0b7445f",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Skia DEPS at canvas v0.1.100 submodule revision, combined with enabled build recipe. Not a supplier binary SBOM.",
+      "source": "https://chromium.googlesource.com/webm/libwebp.git/+/845d5476a866141ba35ac133f856fa62f0b7445f/PATENTS?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/libwebp/PATENTS.txt",
+          "sourcePath": "licenses/upstream/native/libwebp/PATENTS",
+          "bytes": 1436
+        }
+      ]
+    },
+    {
+      "id": "native-wuffs-LICENSE",
+      "name": "wuffs",
+      "version": "e3f919ccfe3ef542cfc983a82146070258fb57f8",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Skia DEPS at canvas v0.1.100 submodule revision, combined with enabled build recipe. Not a supplier binary SBOM.",
+      "source": "https://skia.googlesource.com/external/github.com/google/wuffs-mirror-release-c.git/+/e3f919ccfe3ef542cfc983a82146070258fb57f8/LICENSE?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/wuffs/LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/wuffs/LICENSE",
+          "bytes": 11358
+        }
+      ]
+    },
+    {
+      "id": "native-zlib-LICENSE",
+      "name": "zlib",
+      "version": "646b7f569718921d7d4b5b8e22572ff6c76f2596",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Skia DEPS at canvas v0.1.100 submodule revision, combined with enabled build recipe. Not a supplier binary SBOM.",
+      "source": "https://chromium.googlesource.com/chromium/src/third_party/zlib/+/646b7f569718921d7d4b5b8e22572ff6c76f2596/LICENSE?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/zlib/LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/zlib/LICENSE",
+          "bytes": 910
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-package",
+      "name": "onnx-web-package",
+      "version": "",
+      "category": "来源与参考",
+      "license": "见原文",
+      "relationship": "evidence",
+      "note": "对应版本的一手来源证据；不是单独分发组件的断言。",
+      "source": "https://raw.githubusercontent.com/microsoft/onnxruntime/89f8206ba4/js/web/package.json",
+      "files": [
+        {
+          "path": "raw/upstream/translation/evidence/onnx-web-package.json.txt",
+          "sourcePath": "licenses/upstream/translation/evidence/onnx-web-package.json",
+          "bytes": 3491
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-lock",
+      "name": "onnx-web-lock",
+      "version": "",
+      "category": "来源与参考",
+      "license": "见原文",
+      "relationship": "evidence",
+      "note": "对应版本的一手来源证据；不是单独分发组件的断言。",
+      "source": "https://raw.githubusercontent.com/microsoft/onnxruntime/89f8206ba4/js/web/package-lock.json",
+      "files": [
+        {
+          "path": "raw/upstream/translation/evidence/onnx-web-package-lock.json.txt",
+          "sourcePath": "licenses/upstream/translation/evidence/onnx-web-package-lock.json",
+          "bytes": 243723
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-protobufjs-aspromise",
+      "name": "@protobufjs/aspromise",
+      "version": "1.1.2",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "ONNX Runtime Web exact source revision89f8206ba4 js/web/package-lock.json production dependency; not a claim that every optional/dead-code path remains linked in the distributed bundle.",
+      "source": "https://cdn.jsdelivr.net/npm/@protobufjs/aspromise@1.1.2/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/@protobufjs--aspromise-1.1.2-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/@protobufjs--aspromise-1.1.2-LICENSE.txt",
+          "bytes": 1505
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-protobufjs-base64",
+      "name": "@protobufjs/base64",
+      "version": "1.1.2",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "ONNX Runtime Web exact source revision89f8206ba4 js/web/package-lock.json production dependency; not a claim that every optional/dead-code path remains linked in the distributed bundle.",
+      "source": "https://cdn.jsdelivr.net/npm/@protobufjs/base64@1.1.2/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/@protobufjs--base64-1.1.2-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/@protobufjs--base64-1.1.2-LICENSE.txt",
+          "bytes": 1505
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-protobufjs-codegen",
+      "name": "@protobufjs/codegen",
+      "version": "2.0.4",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "ONNX Runtime Web exact source revision89f8206ba4 js/web/package-lock.json production dependency; not a claim that every optional/dead-code path remains linked in the distributed bundle.",
+      "source": "https://cdn.jsdelivr.net/npm/@protobufjs/codegen@2.0.4/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/@protobufjs--codegen-2.0.4-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/@protobufjs--codegen-2.0.4-LICENSE.txt",
+          "bytes": 1505
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-protobufjs-eventemitter",
+      "name": "@protobufjs/eventemitter",
+      "version": "1.1.0",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "ONNX Runtime Web exact source revision89f8206ba4 js/web/package-lock.json production dependency; not a claim that every optional/dead-code path remains linked in the distributed bundle.",
+      "source": "https://cdn.jsdelivr.net/npm/@protobufjs/eventemitter@1.1.0/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/@protobufjs--eventemitter-1.1.0-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/@protobufjs--eventemitter-1.1.0-LICENSE.txt",
+          "bytes": 1505
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-protobufjs-fetch",
+      "name": "@protobufjs/fetch",
+      "version": "1.1.0",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "ONNX Runtime Web exact source revision89f8206ba4 js/web/package-lock.json production dependency; not a claim that every optional/dead-code path remains linked in the distributed bundle.",
+      "source": "https://cdn.jsdelivr.net/npm/@protobufjs/fetch@1.1.0/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/@protobufjs--fetch-1.1.0-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/@protobufjs--fetch-1.1.0-LICENSE.txt",
+          "bytes": 1505
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-protobufjs-float",
+      "name": "@protobufjs/float",
+      "version": "1.0.2",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "ONNX Runtime Web exact source revision89f8206ba4 js/web/package-lock.json production dependency; not a claim that every optional/dead-code path remains linked in the distributed bundle.",
+      "source": "https://cdn.jsdelivr.net/npm/@protobufjs/float@1.0.2/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/@protobufjs--float-1.0.2-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/@protobufjs--float-1.0.2-LICENSE.txt",
+          "bytes": 1505
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-protobufjs-inquire",
+      "name": "@protobufjs/inquire",
+      "version": "1.1.0",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "ONNX Runtime Web exact source revision89f8206ba4 js/web/package-lock.json production dependency; not a claim that every optional/dead-code path remains linked in the distributed bundle.",
+      "source": "https://cdn.jsdelivr.net/npm/@protobufjs/inquire@1.1.0/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/@protobufjs--inquire-1.1.0-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/@protobufjs--inquire-1.1.0-LICENSE.txt",
+          "bytes": 1505
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-protobufjs-path",
+      "name": "@protobufjs/path",
+      "version": "1.1.2",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "ONNX Runtime Web exact source revision89f8206ba4 js/web/package-lock.json production dependency; not a claim that every optional/dead-code path remains linked in the distributed bundle.",
+      "source": "https://cdn.jsdelivr.net/npm/@protobufjs/path@1.1.2/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/@protobufjs--path-1.1.2-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/@protobufjs--path-1.1.2-LICENSE.txt",
+          "bytes": 1505
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-protobufjs-pool",
+      "name": "@protobufjs/pool",
+      "version": "1.1.0",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "ONNX Runtime Web exact source revision89f8206ba4 js/web/package-lock.json production dependency; not a claim that every optional/dead-code path remains linked in the distributed bundle.",
+      "source": "https://cdn.jsdelivr.net/npm/@protobufjs/pool@1.1.0/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/@protobufjs--pool-1.1.0-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/@protobufjs--pool-1.1.0-LICENSE.txt",
+          "bytes": 1505
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-protobufjs-utf8",
+      "name": "@protobufjs/utf8",
+      "version": "1.1.0",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "ONNX Runtime Web exact source revision89f8206ba4 js/web/package-lock.json production dependency; not a claim that every optional/dead-code path remains linked in the distributed bundle.",
+      "source": "https://cdn.jsdelivr.net/npm/@protobufjs/utf8@1.1.0/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/@protobufjs--utf8-1.1.0-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/@protobufjs--utf8-1.1.0-LICENSE.txt",
+          "bytes": 1505
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-flatbuffers",
+      "name": "flatbuffers",
+      "version": "25.1.24",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "ONNX Runtime Web exact source revision89f8206ba4 js/web/package-lock.json production dependency; not a claim that every optional/dead-code path remains linked in the distributed bundle.",
+      "source": "https://cdn.jsdelivr.net/npm/flatbuffers@25.1.24/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/flatbuffers-25.1.24-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/flatbuffers-25.1.24-LICENSE.txt",
+          "bytes": 11358
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-guid-typescript",
+      "name": "guid-typescript",
+      "version": "1.0.9",
+      "category": "来源与参考",
+      "license": "ISC（出版者元数据声明；未取到原许可全文）",
+      "relationship": "source-declaration-only",
+      "note": "Only present in the full ONNX Web development lock. The actual ort.bundle build disables WebGL; matching upstream source maps contain no guid-typescript or onnxjs source, and its stable code fingerprints are absent. This declaration is retained as a reference, not a shipped-component or missing-notice claim.",
+      "source": "https://cdn.jsdelivr.net/npm/guid-typescript@1.0.9/package.json",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/guid-typescript-1.0.9-DECLARATION.json.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/guid-typescript-1.0.9-DECLARATION.json",
+          "bytes": 950
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-long",
+      "name": "long",
+      "version": "5.2.3",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "ONNX Runtime Web exact source revision89f8206ba4 js/web/package-lock.json production dependency; not a claim that every optional/dead-code path remains linked in the distributed bundle.",
+      "source": "https://cdn.jsdelivr.net/npm/long@5.2.3/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/long-5.2.3-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/long-5.2.3-LICENSE.txt",
+          "bytes": 11358
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-platform",
+      "name": "platform",
+      "version": "1.3.6",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "ONNX Runtime Web exact source revision89f8206ba4 js/web/package-lock.json production dependency; not a claim that every optional/dead-code path remains linked in the distributed bundle.",
+      "source": "https://cdn.jsdelivr.net/npm/platform@1.3.6/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/platform-1.3.6-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/platform-1.3.6-LICENSE.txt",
+          "bytes": 1095
+        }
+      ]
+    },
+    {
+      "id": "onnx-web-dep-protobufjs",
+      "name": "protobufjs",
+      "version": "7.2.5",
+      "category": "本机翻译",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "ONNX Runtime Web exact source revision89f8206ba4 js/web/package-lock.json production dependency; not a claim that every optional/dead-code path remains linked in the distributed bundle.",
+      "source": "https://cdn.jsdelivr.net/npm/protobufjs@7.2.5/LICENSE",
+      "files": [
+        {
+          "path": "raw/upstream/translation/web-js-dependencies/protobufjs-7.2.5-LICENSE.txt",
+          "sourcePath": "licenses/upstream/translation/web-js-dependencies/protobufjs-7.2.5-LICENSE.txt",
+          "bytes": 1937
+        }
+      ]
+    },
+    {
+      "id": "native-freetype-src-bdf-README",
+      "name": "freetype",
+      "version": "264b5fbf5b912b39f98d038bf75d39be0a73f21b",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Files expressly identified as separate notices in the exact FreeType LICENSE.TXT; FTL chosen for the core engine.",
+      "source": "https://chromium.googlesource.com/chromium/src/third_party/freetype2.git/+/264b5fbf5b912b39f98d038bf75d39be0a73f21b/src/bdf/README?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/freetype/src-bdf-README.txt",
+          "sourcePath": "licenses/upstream/native/freetype/src-bdf-README.txt",
+          "bytes": 5972
+        }
+      ]
+    },
+    {
+      "id": "native-freetype-src-pcf-README",
+      "name": "freetype",
+      "version": "264b5fbf5b912b39f98d038bf75d39be0a73f21b",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Files expressly identified as separate notices in the exact FreeType LICENSE.TXT; FTL chosen for the core engine.",
+      "source": "https://chromium.googlesource.com/chromium/src/third_party/freetype2.git/+/264b5fbf5b912b39f98d038bf75d39be0a73f21b/src/pcf/README?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/freetype/src-pcf-README.txt",
+          "sourcePath": "licenses/upstream/native/freetype/src-pcf-README.txt",
+          "bytes": 3311
+        }
+      ]
+    },
+    {
+      "id": "native-freetype-src-gzip-zlib.h",
+      "name": "freetype",
+      "version": "264b5fbf5b912b39f98d038bf75d39be0a73f21b",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Files expressly identified as separate notices in the exact FreeType LICENSE.TXT; FTL chosen for the core engine.",
+      "source": "https://chromium.googlesource.com/chromium/src/third_party/freetype2.git/+/264b5fbf5b912b39f98d038bf75d39be0a73f21b/src/gzip/zlib.h?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/freetype/src-gzip-zlib.h.txt",
+          "sourcePath": "licenses/upstream/native/freetype/src-gzip-zlib.h.txt",
+          "bytes": 97499
+        }
+      ]
+    },
+    {
+      "id": "native-libjpeg-IJG",
+      "name": "libjpeg-turbo",
+      "version": "e14cbfaa85529d47f9f55b0f104a579c1061f9ad",
+      "category": "原生绘图",
+      "license": "见原文",
+      "relationship": "license",
+      "note": "Exact LICENSE.md explicitly requires IJG notice and attribution for linked binaries.",
+      "source": "https://chromium.googlesource.com/chromium/deps/libjpeg_turbo.git/+/e14cbfaa85529d47f9f55b0f104a579c1061f9ad/README.ijg?format=TEXT",
+      "files": [
+        {
+          "path": "raw/upstream/native/libjpeg-turbo/README.ijg.txt",
+          "sourcePath": "licenses/upstream/native/libjpeg-turbo/README.ijg",
+          "bytes": 12799
+        }
+      ]
+    },
+    {
+      "id": "native-skcms-source",
+      "name": "skcms",
+      "version": "fe2718df5f53a681087be6f0539045ca1b4b8c09",
+      "category": "来源与参考",
+      "license": "见原文",
+      "relationship": "evidence",
+      "note": "The source explicitly credits Copyright2018 Google Inc and refers to the Skia top-level BSD LICENSE; there is no separate modules/skcms/LICENSE.",
+      "source": "https://raw.githubusercontent.com/google/skia/fe2718df5f53a681087be6f0539045ca1b4b8c09/modules/skcms/skcms.cc",
+      "files": [
+        {
+          "path": "raw/upstream/native/evidence/skcms.cc.txt",
+          "sourcePath": "licenses/upstream/native/evidence/skcms.cc",
+          "bytes": 118843
+        }
+      ]
+    },
+    {
+      "id": "ort-build-recipe",
+      "name": "ONNX Web build recipe",
+      "version": "89f8206ba4",
+      "category": "来源与参考",
+      "license": "见原文",
+      "relationship": "evidence",
+      "note": "Lines574–580 build ort.bundle with DISABLE_WEBGL=true; corresponding source maps contain no onnxjs/guid-typescript source.",
+      "source": "https://raw.githubusercontent.com/microsoft/onnxruntime/89f8206ba4/js/web/script/build.ts",
+      "files": [
+        {
+          "path": "raw/upstream/translation/evidence/onnx-build.ts.txt",
+          "sourcePath": "licenses/upstream/translation/evidence/onnx-build.ts",
+          "bytes": 23512
+        }
+      ]
+    },
+    {
+      "id": "rust-aho-corasick-1.1.4",
+      "name": "aho-corasick",
+      "version": "1.1.4",
+      "category": "原生绘图",
+      "license": "Unlicense OR MIT",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/aho-corasick/aho-corasick-1.1.4.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/aho-corasick-1.1.4/0-COPYING.txt",
+          "sourcePath": "licenses/upstream/native/rust/aho-corasick-1.1.4/COPYING",
+          "bytes": 126,
+          "archiveMember": "aho-corasick-1.1.4/COPYING"
+        },
+        {
+          "path": "raw/native-rust/aho-corasick-1.1.4/1-LICENSE-MIT.txt",
+          "sourcePath": "licenses/upstream/native/rust/aho-corasick-1.1.4/LICENSE-MIT",
+          "bytes": 1081,
+          "archiveMember": "aho-corasick-1.1.4/LICENSE-MIT"
+        },
+        {
+          "path": "raw/native-rust/aho-corasick-1.1.4/2-UNLICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/aho-corasick-1.1.4/UNLICENSE",
+          "bytes": 1211,
+          "archiveMember": "aho-corasick-1.1.4/UNLICENSE"
+        }
+      ]
+    },
+    {
+      "id": "rust-base64-simd-0.8.0",
+      "name": "base64-simd",
+      "version": "0.8.0",
+      "category": "原生绘图",
+      "license": "MIT",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/base64-simd/base64-simd-0.8.0.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/base64-simd-0.8.0/0-upstream-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/base64-simd-0.8.0/upstream-LICENSE",
+          "bytes": 1062,
+          "upstreamUrl": "https://raw.githubusercontent.com/Nugine/simd/d74c030d9dc4f3cae02146d1f497ff62726ef09a/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "rust-cfb-0.7.3",
+      "name": "cfb",
+      "version": "0.7.3",
+      "category": "原生绘图",
+      "license": "MIT",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/cfb/cfb-0.7.3.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/cfb-0.7.3/0-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/cfb-0.7.3/LICENSE",
+          "bytes": 1074,
+          "archiveMember": "cfb-0.7.3/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "rust-color_quant-1.1.0",
+      "name": "color_quant",
+      "version": "1.1.0",
+      "category": "原生绘图",
+      "license": "MIT",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/color_quant/color_quant-1.1.0.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/color_quant-1.1.0/0-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/color_quant-1.1.0/LICENSE",
+          "bytes": 1083,
+          "archiveMember": "color_quant-1.1.0/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "rust-cssparser-0.37.0",
+      "name": "cssparser",
+      "version": "0.37.0",
+      "category": "原生绘图",
+      "license": "MPL-2.0",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/cssparser/cssparser-0.37.0.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/cssparser-0.37.0/0-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/cssparser-0.37.0/LICENSE",
+          "bytes": 16726,
+          "archiveMember": "cssparser-0.37.0/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "rust-gif-0.14.2",
+      "name": "gif",
+      "version": "0.14.2",
+      "category": "原生绘图",
+      "license": "MIT OR Apache-2.0",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/gif/gif-0.14.2.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/gif-0.14.2/0-LICENSE-APACHE.txt",
+          "sourcePath": "licenses/upstream/native/rust/gif-0.14.2/LICENSE-APACHE",
+          "bytes": 10846,
+          "archiveMember": "gif-0.14.2/LICENSE-APACHE"
+        },
+        {
+          "path": "raw/native-rust/gif-0.14.2/1-LICENSE-MIT.txt",
+          "sourcePath": "licenses/upstream/native/rust/gif-0.14.2/LICENSE-MIT",
+          "bytes": 1071,
+          "archiveMember": "gif-0.14.2/LICENSE-MIT"
+        }
+      ]
+    },
+    {
+      "id": "rust-hashbrown-0.16.1",
+      "name": "hashbrown",
+      "version": "0.16.1",
+      "category": "原生绘图",
+      "license": "MIT OR Apache-2.0",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/hashbrown/hashbrown-0.16.1.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/hashbrown-0.16.1/0-LICENSE-APACHE.txt",
+          "sourcePath": "licenses/upstream/native/rust/hashbrown-0.16.1/LICENSE-APACHE",
+          "bytes": 10847,
+          "archiveMember": "hashbrown-0.16.1/LICENSE-APACHE"
+        },
+        {
+          "path": "raw/native-rust/hashbrown-0.16.1/1-LICENSE-MIT.txt",
+          "sourcePath": "licenses/upstream/native/rust/hashbrown-0.16.1/LICENSE-MIT",
+          "bytes": 1060,
+          "archiveMember": "hashbrown-0.16.1/LICENSE-MIT"
+        }
+      ]
+    },
+    {
+      "id": "rust-itoa-1.0.18",
+      "name": "itoa",
+      "version": "1.0.18",
+      "category": "原生绘图",
+      "license": "MIT OR Apache-2.0",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/itoa/itoa-1.0.18.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/itoa-1.0.18/0-LICENSE-APACHE.txt",
+          "sourcePath": "licenses/upstream/native/rust/itoa-1.0.18/LICENSE-APACHE",
+          "bytes": 9723,
+          "archiveMember": "itoa-1.0.18/LICENSE-APACHE"
+        },
+        {
+          "path": "raw/native-rust/itoa-1.0.18/1-LICENSE-MIT.txt",
+          "sourcePath": "licenses/upstream/native/rust/itoa-1.0.18/LICENSE-MIT",
+          "bytes": 1023,
+          "archiveMember": "itoa-1.0.18/LICENSE-MIT"
+        }
+      ]
+    },
+    {
+      "id": "rust-libaom-sys-0.17.2+libaom.3.11.0",
+      "name": "libaom-sys",
+      "version": "0.17.2+libaom.3.11.0",
+      "category": "原生绘图",
+      "license": "BSD-2-Clause",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/libaom-sys/libaom-sys-0.17.2+libaom.3.11.0.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/libaom-sys-0.17.2+libaom.3.11.0/0-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/libaom-sys-0.17.2+libaom.3.11.0/vendor/LICENSE",
+          "bytes": 1316,
+          "archiveMember": "libaom-sys-0.17.2+libaom.3.11.0/vendor/LICENSE"
+        },
+        {
+          "path": "raw/native-rust/libaom-sys-0.17.2+libaom.3.11.0/1-PATENTS.txt",
+          "sourcePath": "licenses/upstream/native/rust/libaom-sys-0.17.2+libaom.3.11.0/vendor/PATENTS",
+          "bytes": 5701,
+          "archiveMember": "libaom-sys-0.17.2+libaom.3.11.0/vendor/PATENTS"
+        },
+        {
+          "path": "raw/native-rust/libaom-sys-0.17.2+libaom.3.11.0/2-LICENSE.md.txt",
+          "sourcePath": "licenses/upstream/native/rust/libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/SVT-AV1/LICENSE.md",
+          "bytes": 1709,
+          "archiveMember": "libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/SVT-AV1/LICENSE.md"
+        },
+        {
+          "path": "raw/native-rust/libaom-sys-0.17.2+libaom.3.11.0/3-PATENTS.md.txt",
+          "sourcePath": "licenses/upstream/native/rust/libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/SVT-AV1/PATENTS.md",
+          "bytes": 5767,
+          "archiveMember": "libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/SVT-AV1/PATENTS.md"
+        },
+        {
+          "path": "raw/native-rust/libaom-sys-0.17.2+libaom.3.11.0/4-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/fastfeat/LICENSE",
+          "bytes": 1506,
+          "archiveMember": "libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/fastfeat/LICENSE"
+        },
+        {
+          "path": "raw/native-rust/libaom-sys-0.17.2+libaom.3.11.0/5-LICENSE.TXT.txt",
+          "sourcePath": "licenses/upstream/native/rust/libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/libwebm/LICENSE.TXT",
+          "bytes": 1496,
+          "archiveMember": "libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/libwebm/LICENSE.TXT"
+        },
+        {
+          "path": "raw/native-rust/libaom-sys-0.17.2+libaom.3.11.0/6-PATENTS.TXT.txt",
+          "sourcePath": "licenses/upstream/native/rust/libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/libwebm/PATENTS.TXT",
+          "bytes": 1436,
+          "archiveMember": "libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/libwebm/PATENTS.TXT"
+        },
+        {
+          "path": "raw/native-rust/libaom-sys-0.17.2+libaom.3.11.0/7-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/libyuv/LICENSE",
+          "bytes": 1506,
+          "archiveMember": "libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/libyuv/LICENSE"
+        },
+        {
+          "path": "raw/native-rust/libaom-sys-0.17.2+libaom.3.11.0/8-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/vector/LICENSE",
+          "bytes": 1084,
+          "archiveMember": "libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/vector/LICENSE"
+        },
+        {
+          "path": "raw/native-rust/libaom-sys-0.17.2+libaom.3.11.0/9-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/x86inc/LICENSE",
+          "bytes": 936,
+          "archiveMember": "libaom-sys-0.17.2+libaom.3.11.0/vendor/third_party/x86inc/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "rust-libavif-0.14.0",
+      "name": "libavif",
+      "version": "0.14.0",
+      "category": "原生绘图",
+      "license": "BSD-2-Clause",
+      "relationship": "upstream-license-supplement",
+      "note": "Canvas v0.1.100 explicitly requires libavif ^0.14; 0.14.0 is the published version in that range. The actual binary embeds libavif1.0.4 and exact libavif-sys0.17.0 source paths; wrapper source is retained as a recipe supplement, not an invented full build lock.",
+      "source": "https://static.crates.io/crates/libavif/libavif-0.14.0.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/libavif-0.14.0/0-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/libavif-0.14.0/LICENSE",
+          "bytes": 1317,
+          "archiveMember": "libavif-0.14.0/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "rust-libavif-sys-0.17.0+libavif.1.0.4",
+      "name": "libavif-sys",
+      "version": "0.17.0+libavif.1.0.4",
+      "category": "原生绘图",
+      "license": "BSD-2-Clause",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/libavif-sys/libavif-sys-0.17.0+libavif.1.0.4.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/libavif-sys-0.17.0+libavif.1.0.4/0-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/libavif-sys-0.17.0+libavif.1.0.4/libavif/LICENSE",
+          "bytes": 18799,
+          "archiveMember": "libavif-sys-0.17.0+libavif.1.0.4/libavif/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "rust-libmimalloc-sys2-0.1.65",
+      "name": "libmimalloc-sys2",
+      "version": "0.1.65",
+      "category": "原生绘图",
+      "license": "MIT",
+      "relationship": "upstream-license-supplement",
+      "note": "The exact collected mimalloc-safe0.1.69 source declares libmimalloc-sys2 ^0.1.65. Preserve wrapper and actual vendored Microsoft/Daan Leijen MIT texts; this source reference does not assign an unobserved exact mimalloc version to the binary.",
+      "source": "https://static.crates.io/crates/libmimalloc-sys2/libmimalloc-sys2-0.1.65.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/libmimalloc-sys2-0.1.65/0-LICENSE.txt.txt",
+          "sourcePath": "licenses/upstream/native/rust/libmimalloc-sys2-0.1.65/LICENSE.txt",
+          "bytes": 1055,
+          "archiveMember": "libmimalloc-sys2-0.1.65/LICENSE.txt"
+        },
+        {
+          "path": "raw/native-rust/libmimalloc-sys2-0.1.65/1-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/libmimalloc-sys2-0.1.65/c_src/mimalloc/LICENSE",
+          "bytes": 1096,
+          "archiveMember": "libmimalloc-sys2-0.1.65/c_src/mimalloc/LICENSE"
+        },
+        {
+          "path": "raw/native-rust/libmimalloc-sys2-0.1.65/2-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/libmimalloc-sys2-0.1.65/c_src/mimalloc3/LICENSE",
+          "bytes": 1096,
+          "archiveMember": "libmimalloc-sys2-0.1.65/c_src/mimalloc3/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "rust-memchr-2.8.0",
+      "name": "memchr",
+      "version": "2.8.0",
+      "category": "原生绘图",
+      "license": "Unlicense OR MIT",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/memchr/memchr-2.8.0.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/memchr-2.8.0/0-COPYING.txt",
+          "sourcePath": "licenses/upstream/native/rust/memchr-2.8.0/COPYING",
+          "bytes": 126,
+          "archiveMember": "memchr-2.8.0/COPYING"
+        },
+        {
+          "path": "raw/native-rust/memchr-2.8.0/1-LICENSE-MIT.txt",
+          "sourcePath": "licenses/upstream/native/rust/memchr-2.8.0/LICENSE-MIT",
+          "bytes": 1081,
+          "archiveMember": "memchr-2.8.0/LICENSE-MIT"
+        },
+        {
+          "path": "raw/native-rust/memchr-2.8.0/2-UNLICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/memchr-2.8.0/UNLICENSE",
+          "bytes": 1211,
+          "archiveMember": "memchr-2.8.0/UNLICENSE"
+        }
+      ]
+    },
+    {
+      "id": "rust-mimalloc-safe-0.1.69",
+      "name": "mimalloc-safe",
+      "version": "0.1.69",
+      "category": "原生绘图",
+      "license": "MIT",
+      "relationship": "upstream-license-supplement",
+      "note": "Canvas recipe requires mimalloc-safe ^0.1 and the actual binary contains mimalloc runtime strings. This exact published MIT notice is supplementary source material; its source version is not asserted to be the exact version linked into the supplier binary.",
+      "source": "https://static.crates.io/crates/mimalloc-safe/mimalloc-safe-0.1.69.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/mimalloc-safe-0.1.69/0-LICENSE.txt.txt",
+          "sourcePath": "licenses/upstream/native/rust/mimalloc-safe-0.1.69/LICENSE.txt",
+          "bytes": 1055,
+          "archiveMember": "mimalloc-safe-0.1.69/LICENSE.txt"
+        }
+      ]
+    },
+    {
+      "id": "rust-napi-3.8.5",
+      "name": "napi",
+      "version": "3.8.5",
+      "category": "原生绘图",
+      "license": "MIT",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/napi/napi-3.8.5.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/napi-3.8.5/0-upstream-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/napi-3.8.5/upstream-LICENSE",
+          "bytes": 2138,
+          "upstreamUrl": "https://raw.githubusercontent.com/napi-rs/napi-rs/78eb068d0a6a9664831c7f031318af11b990f1ac/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "rust-napi-sys-3.2.1",
+      "name": "napi-sys",
+      "version": "3.2.1",
+      "category": "原生绘图",
+      "license": "MIT",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/napi-sys/napi-sys-3.2.1.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/napi-sys-3.2.1/0-upstream-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/napi-sys-3.2.1/upstream-LICENSE",
+          "bytes": 2138,
+          "upstreamUrl": "https://raw.githubusercontent.com/napi-rs/napi-rs/be4b16ca00aa2cecd19be6ffe6de59495b471b14/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "rust-nom-8.0.0",
+      "name": "nom",
+      "version": "8.0.0",
+      "category": "原生绘图",
+      "license": "MIT",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/nom/nom-8.0.0.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/nom-8.0.0/0-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/nom-8.0.0/LICENSE",
+          "bytes": 1065,
+          "archiveMember": "nom-8.0.0/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "rust-regex-1.12.3",
+      "name": "regex",
+      "version": "1.12.3",
+      "category": "原生绘图",
+      "license": "MIT OR Apache-2.0",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/regex/regex-1.12.3.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/regex-1.12.3/0-LICENSE-APACHE.txt",
+          "sourcePath": "licenses/upstream/native/rust/regex-1.12.3/LICENSE-APACHE",
+          "bytes": 10847,
+          "archiveMember": "regex-1.12.3/LICENSE-APACHE"
+        },
+        {
+          "path": "raw/native-rust/regex-1.12.3/1-LICENSE-MIT.txt",
+          "sourcePath": "licenses/upstream/native/rust/regex-1.12.3/LICENSE-MIT",
+          "bytes": 1071,
+          "archiveMember": "regex-1.12.3/LICENSE-MIT"
+        }
+      ]
+    },
+    {
+      "id": "rust-regex-automata-0.4.14",
+      "name": "regex-automata",
+      "version": "0.4.14",
+      "category": "原生绘图",
+      "license": "MIT OR Apache-2.0",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/regex-automata/regex-automata-0.4.14.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/regex-automata-0.4.14/0-LICENSE-APACHE.txt",
+          "sourcePath": "licenses/upstream/native/rust/regex-automata-0.4.14/LICENSE-APACHE",
+          "bytes": 10847,
+          "archiveMember": "regex-automata-0.4.14/LICENSE-APACHE"
+        },
+        {
+          "path": "raw/native-rust/regex-automata-0.4.14/1-LICENSE-MIT.txt",
+          "sourcePath": "licenses/upstream/native/rust/regex-automata-0.4.14/LICENSE-MIT",
+          "bytes": 1071,
+          "archiveMember": "regex-automata-0.4.14/LICENSE-MIT"
+        }
+      ]
+    },
+    {
+      "id": "rust-regex-syntax-0.8.10",
+      "name": "regex-syntax",
+      "version": "0.8.10",
+      "category": "原生绘图",
+      "license": "MIT OR Apache-2.0",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/regex-syntax/regex-syntax-0.8.10.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/regex-syntax-0.8.10/0-LICENSE-APACHE.txt",
+          "sourcePath": "licenses/upstream/native/rust/regex-syntax-0.8.10/LICENSE-APACHE",
+          "bytes": 10847,
+          "archiveMember": "regex-syntax-0.8.10/LICENSE-APACHE"
+        },
+        {
+          "path": "raw/native-rust/regex-syntax-0.8.10/1-LICENSE-MIT.txt",
+          "sourcePath": "licenses/upstream/native/rust/regex-syntax-0.8.10/LICENSE-MIT",
+          "bytes": 1071,
+          "archiveMember": "regex-syntax-0.8.10/LICENSE-MIT"
+        },
+        {
+          "path": "raw/native-rust/regex-syntax-0.8.10/2-LICENSE-UNICODE.txt",
+          "sourcePath": "licenses/upstream/native/rust/regex-syntax-0.8.10/src/unicode_tables/LICENSE-UNICODE",
+          "bytes": 2847,
+          "archiveMember": "regex-syntax-0.8.10/src/unicode_tables/LICENSE-UNICODE"
+        }
+      ]
+    },
+    {
+      "id": "rust-rustc-demangle-0.1.26",
+      "name": "rustc-demangle",
+      "version": "0.1.26",
+      "category": "原生绘图",
+      "license": "MIT/Apache-2.0",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/rustc-demangle/rustc-demangle-0.1.26.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/rustc-demangle-0.1.26/0-LICENSE-APACHE.txt",
+          "sourcePath": "licenses/upstream/native/rust/rustc-demangle-0.1.26/LICENSE-APACHE",
+          "bytes": 10847,
+          "archiveMember": "rustc-demangle-0.1.26/LICENSE-APACHE"
+        },
+        {
+          "path": "raw/native-rust/rustc-demangle-0.1.26/1-LICENSE-MIT.txt",
+          "sourcePath": "licenses/upstream/native/rust/rustc-demangle-0.1.26/LICENSE-MIT",
+          "bytes": 1057,
+          "archiveMember": "rustc-demangle-0.1.26/LICENSE-MIT"
+        }
+      ]
+    },
+    {
+      "id": "rust-smallvec-1.15.1",
+      "name": "smallvec",
+      "version": "1.15.1",
+      "category": "原生绘图",
+      "license": "MIT OR Apache-2.0",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/smallvec/smallvec-1.15.1.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/smallvec-1.15.1/0-LICENSE-APACHE.txt",
+          "sourcePath": "licenses/upstream/native/rust/smallvec-1.15.1/LICENSE-APACHE",
+          "bytes": 10847,
+          "archiveMember": "smallvec-1.15.1/LICENSE-APACHE"
+        },
+        {
+          "path": "raw/native-rust/smallvec-1.15.1/1-LICENSE-MIT.txt",
+          "sourcePath": "licenses/upstream/native/rust/smallvec-1.15.1/LICENSE-MIT",
+          "bytes": 1072,
+          "archiveMember": "smallvec-1.15.1/LICENSE-MIT"
+        }
+      ]
+    },
+    {
+      "id": "rust-tokio-1.52.1",
+      "name": "tokio",
+      "version": "1.52.1",
+      "category": "原生绘图",
+      "license": "MIT",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/tokio/tokio-1.52.1.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/tokio-1.52.1/0-LICENSE.txt",
+          "sourcePath": "licenses/upstream/native/rust/tokio-1.52.1/LICENSE",
+          "bytes": 1070,
+          "archiveMember": "tokio-1.52.1/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "rust-weezl-0.1.12",
+      "name": "weezl",
+      "version": "0.1.12",
+      "category": "原生绘图",
+      "license": "MIT OR Apache-2.0",
+      "relationship": "positive-embedded-native-source-path",
+      "note": "实际native文件内嵌源码路径给出的版本正证。随上游保留vendor许可及专利文本；其中可选vendor不等于全部编入的断言。",
+      "source": "https://static.crates.io/crates/weezl/weezl-0.1.12.crate",
+      "files": [
+        {
+          "path": "raw/native-rust/weezl-0.1.12/0-LICENSE-APACHE.txt",
+          "sourcePath": "licenses/upstream/native/rust/weezl-0.1.12/LICENSE-APACHE",
+          "bytes": 10846,
+          "archiveMember": "weezl-0.1.12/LICENSE-APACHE"
+        },
+        {
+          "path": "raw/native-rust/weezl-0.1.12/1-LICENSE-MIT.txt",
+          "sourcePath": "licenses/upstream/native/rust/weezl-0.1.12/LICENSE-MIT",
+          "bytes": 1080,
+          "archiveMember": "weezl-0.1.12/LICENSE-MIT"
+        }
+      ]
+    },
+    {
+      "id": "math-fonts",
+      "name": "KaTeX数学字体",
+      "version": "0.16.42 / MathLive0.111.1",
+      "license": "OFL-1.1",
+      "category": "字体与PDF",
+      "note": "保留实际每个字体的版权与Reserved Font Name；字体未修改。代码MIT不替代此字体许可。",
+      "relationship": "distributed-resource-notice",
+      "source": "本机安装包对应原资源及保留的上游来源记录",
+      "files": [
+        {
+          "path": "raw/resources/math-fonts/0-KaTeX-COPYRIGHT-RFN-OFL.txt.txt",
+          "sourcePath": "licenses/upstream/fonts/KaTeX-COPYRIGHT-RFN-OFL.txt",
+          "bytes": 6540
+        },
+        {
+          "path": "raw/resources/math-fonts/1-KaTeX-font-source-record.json.txt",
+          "sourcePath": "licenses/upstream/fonts/KaTeX-font-source-record.json",
+          "bytes": 14857
+        }
+      ]
+    },
+    {
+      "id": "pdf-cmaps",
+      "name": "PDF.js / Adobe CMaps",
+      "version": "5.4.296",
+      "license": "BSD式条款，见全文",
+      "category": "字体与PDF",
+      "note": "PDF.js附带映射资源，版权与条件独立保留。",
+      "relationship": "distributed-resource-notice",
+      "source": "本机安装包对应原资源及保留的上游来源记录",
+      "files": [
+        {
+          "path": "raw/resources/pdf-cmaps/0-LICENSE.txt",
+          "sourcePath": "node_modules/pdfjs-dist/cmaps/LICENSE",
+          "bytes": 2080
+        }
+      ]
+    },
+    {
+      "id": "pdf-fonts",
+      "name": "PDF.js标准字体",
+      "version": "5.4.296",
+      "license": "OFL / PDFium BSD式条款",
+      "category": "字体与PDF",
+      "note": "保留Foxit/PDFium与Liberation随附许可。部分旧字体元数据指向旧Liberation许可名称，保留原始来源文本，不擅改字体。",
+      "relationship": "distributed-resource-notice",
+      "source": "本机安装包对应原资源及保留的上游来源记录",
+      "files": [
+        {
+          "path": "raw/resources/pdf-fonts/0-LICENSE_FOXIT.txt",
+          "sourcePath": "node_modules/pdfjs-dist/standard_fonts/LICENSE_FOXIT",
+          "bytes": 1553
+        },
+        {
+          "path": "raw/resources/pdf-fonts/1-LICENSE_LIBERATION.txt",
+          "sourcePath": "node_modules/pdfjs-dist/standard_fonts/LICENSE_LIBERATION",
+          "bytes": 4414
+        }
+      ]
+    },
+    {
+      "id": "pdf-wasm",
+      "name": "PDF.js图像/颜色WASM",
+      "version": "5.4.296",
+      "license": "BSD-2-Clause / MIT",
+      "category": "字体与PDF",
+      "note": "PDF.js随包OpenJPEG/QCMS相关许可分别保留。",
+      "relationship": "distributed-resource-notice",
+      "source": "本机安装包对应原资源及保留的上游来源记录",
+      "files": [
+        {
+          "path": "raw/resources/pdf-wasm/0-LICENSE_OPENJPEG.txt",
+          "sourcePath": "node_modules/pdfjs-dist/wasm/LICENSE_OPENJPEG",
+          "bytes": 2112
+        },
+        {
+          "path": "raw/resources/pdf-wasm/1-LICENSE_PDFJS_OPENJPEG.txt",
+          "sourcePath": "node_modules/pdfjs-dist/wasm/LICENSE_PDFJS_OPENJPEG",
+          "bytes": 1285
+        },
+        {
+          "path": "raw/resources/pdf-wasm/2-LICENSE_PDFJS_QCMS.txt",
+          "sourcePath": "node_modules/pdfjs-dist/wasm/LICENSE_PDFJS_QCMS",
+          "bytes": 1285
+        },
+        {
+          "path": "raw/resources/pdf-wasm/3-LICENSE_QCMS.txt",
+          "sourcePath": "node_modules/pdfjs-dist/wasm/LICENSE_QCMS",
+          "bytes": 1121
+        }
+      ]
+    },
+    {
+      "id": "electron-runtime",
+      "name": "Electron运行时",
+      "version": "45.0.0",
+      "license": "MIT及独立Chromium汇编",
+      "category": "桌面运行时",
+      "note": "实际桌面运行时材料；完整Chromium汇编按上游保留，不将其中所有可选项称为单独应用依赖。",
+      "relationship": "distributed-resource-notice",
+      "source": "本机安装包对应原资源及保留的上游来源记录",
+      "files": [
+        {
+          "path": "raw/resources/electron-runtime/0-LICENSE.txt",
+          "sourcePath": "node_modules/electron/LICENSE",
+          "bytes": 1096
+        },
+        {
+          "path": "raw/resources/electron-runtime/1-LICENSES.chromium.html.txt",
+          "sourcePath": "node_modules/electron/dist/LICENSES.chromium.html",
+          "bytes": 5705935
+        }
+      ]
+    },
+    {
+      "id": "native-required-credits",
+      "name": "原生组件致谢与版权",
+      "version": "已核来源",
+      "license": "FTL / IJG / BSD式条款",
+      "category": "原生绘图",
+      "note": "FTL与IJG要求的产品文档致谢，以及Skia内skcms版权；与各组件的完整原许可一同分发。",
+      "relationship": "distributed-resource-notice",
+      "source": "本机安装包对应原资源及保留的上游来源记录",
+      "files": [
+        {
+          "path": "raw/resources/native-required-credits/0-REQUIRED-CREDITS.txt.txt",
+          "sourcePath": "licenses/upstream/native/REQUIRED-CREDITS.txt",
+          "bytes": 949
+        }
+      ]
+    },
+    {
+      "id": "translation-runtime-verification",
+      "name": "本机翻译实际产物来源核对",
+      "version": "Transformers3.8.1 / ORT89f8206ba4",
+      "license": "来源证据",
+      "category": "来源与参考",
+      "note": "实际JS/MJS/WASM与精确发布文件逐字节一致，未计算哈希。ORT bundle构建关闭WebGL，内层100个sourcemap源无guid-typescript或onnxjs；完整开发lock条目不能直接当作编入组件。",
+      "relationship": "distributed-resource-notice",
+      "source": "本机安装包对应原资源及保留的上游来源记录",
+      "files": [
+        {
+          "path": "raw/resources/translation-runtime-verification/0-runtime-byte-comparison.json.txt",
+          "sourcePath": "licenses/upstream/translation/evidence/runtime-byte-comparison.json",
+          "bytes": 13017
+        },
+        {
+          "path": "raw/resources/translation-runtime-verification/1-embedded-ort-bundle-analysis.json.txt",
+          "sourcePath": "licenses/upstream/translation/evidence/embedded-ort-bundle-analysis.json",
+          "bytes": 5296
+        }
+      ]
+    },
+    {
+      "id": "translation-model",
+      "name": "OPUS-MT英译中模型来源",
+      "version": "Xenova046f55aec303cdee3e0318604406d4df20f1e8ea",
+      "license": "基础模型卡声明Apache-2.0；转换来源边界见说明",
+      "category": "本机翻译",
+      "relationship": "separately-downloaded-model",
+      "source": "https://huggingface.co/Xenova/opus-mt-en-zh",
+      "note": "这里只随包提供来源/许可材料，权重另行下载。当前基础模型卡快照不冒充转换时修订，旧缓存不补造来源。",
+      "files": [
+        {
+          "path": "translation-model/opus-mt-en-zh/LICENSE-APACHE-2.0.txt",
+          "bytes": 11358
+        },
+        {
+          "path": "translation-model/opus-mt-en-zh/MODEL-NOTICE.txt",
+          "bytes": 1001
+        },
+        {
+          "path": "translation-model/opus-mt-en-zh/README-Xenova.md",
+          "bytes": 571
+        },
+        {
+          "path": "translation-model/opus-mt-en-zh/README-Helsinki-NLP.md",
+          "bytes": 2670
+        },
+        {
+          "path": "translation-model/opus-mt-en-zh/model-source.json",
+          "bytes": 1600
+        }
+      ]
+    }
+  ],
+  "remainingBoundaries": [
+    "原生canvas已补保留已确认组件及上游配方的版权、许可、附加通知与专利文本。供应方没有提供完整构建锁，这属于完整SBOM可证明范围的限制，不等同于发现缺少某项应分发许可。"
+  ],
+  "scope": "实际安装的运行依赖、分发资源及来源材料。参考汇编/构建依据不等于逐项编入证明；不是完整法律、商标、专利或训练数据权利保证。"
+}
