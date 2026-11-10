@@ -1,4 +1,4 @@
-Paper Companion 0.6.31 — third-party notices
+Paper Companion 0.6.32 — third-party notices
 
 实际安装的运行依赖、分发资源及来源材料。参考汇编/构建依据不等于逐项编入证明；不是完整法律、商标、专利或训练数据权利保证。
 
