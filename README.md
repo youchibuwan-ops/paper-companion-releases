@@ -6,7 +6,7 @@
 
 **[下载 Windows 免费测试版](https://github.com/youchibuwan-ops/paper-companion-releases/releases)** · **[反馈问题](https://github.com/youchibuwan-ops/paper-companion-releases/issues/new/choose)**
 
-当前版本：**0.6.32**，发布标签：**v0.6.32-beta.1**。
+当前版本：**0.6.33**，发布标签：**v0.6.33-beta.1**。
 
 ![软件界面（既有版本预览）](preview.png)
 
@@ -14,9 +14,10 @@
 
 ## 这次更新
 
-- 手动收起后再次选中新文字或旧区域，自动显示对应原文；旧区域也能在原来的全文会话继续问别的问题。
-- 上方工具保持折叠，引用卡限高可滚动，完整聊天和输入框保留阅读空间。
-- 公式框选发送实际截图和问题，首轮与续问都不发内部编号或坐标。保留原 PDF 背景、旧问答及原模型设置，详见 [完整更新说明](RELEASE-NOTES.md)。
+- 修复 DSH 已安装却不可用：兼容标准 npm 提升依赖布局和运行时 SDK 模块，补充明确的安装、Node 版本错误提示。
+- 修复 DSH 原生会话创建与恢复；已核验 0.2.1-rc.2 和 0.2.2-rc.1，保留只读保护与所选模型。
+- 修复百炼 Workspace 模型目录地址，保留不同作者的模型和分页结果。
+- 全局 DSH 命令目录需在 PATH 中；工作区安装可设置 `PAPER_READER_DSH` 指向该安装的 `dsh/lib/bin.js`。DSH 0.2.2-rc.1 需要 Node >=24.9.0，可用 `PAPER_READER_DSH_NODE` 指定。详见 [完整更新说明](RELEASE-NOTES.md)。
 
 ## 0.6.16 的百炼适配
 
